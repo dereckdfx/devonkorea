@@ -1,0 +1,436 @@
+<!DOCTYPE html><html lang="ko"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Fashion | 데본 코리아 (Devon Korea)</title>
+<link rel="icon" type="image/png" href="https://res.cloudinary.com/dhx58lnzb/image/upload/v1784267020/Devon_Favicon_Logo_l5whgz.png">
+<!-- Google Fonts: 
+         Bodoni Moda (Logo)
+         Jost (Títulos en inglés gruesos)
+         Noto Sans KR (Texto Coreano) -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&amp;family=Jost:wght@500;600;700;800&amp;family=Noto+Sans+KR:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'sans': ['"Noto Sans KR"', 'sans-serif'],
+                        'serif': ['"Bodoni Moda"', 'serif'],
+                        'display': ['Jost', 'sans-serif'],
+                    },
+                    colors: {
+                        'devon-gray': '#f5f5f5',
+                        'devon-text-gray': '#888888',
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        /* Tipografía específica para los encabezados de sección igual a la captura */
+        .section-title { font-size: 28px; font-weight: 600; letter-spacing: -0.01em; text-transform: uppercase; color: #000; margin-bottom: 1.5rem; }
+
+        @media (min-width: 768px) { .section-title { font-size: 36px; font-weight: 500; margin-bottom: 2rem; letter-spacing: -0.01em; } }
+
+        /* Enlaces secundarios (MORE >) */
+        .section-more {
+            font-family: 'Jost', sans-serif;
+            font-weight: 500;
+            font-size: 11px;
+            letter-spacing: 0.05em;
+            color: #666;
+        }
+
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        /* Animación inicial Premium de DEVON */
+        #intro-wrapper {
+            position: fixed;
+            inset: 0;
+            background-color: #ffffff;
+            z-index: 999999;
+            overflow: hidden;
+            transition: opacity 1.2s ease-in-out, visibility 1.2s ease-in-out;
+        }
+
+        /* Protección de contenido */
+        body {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        
+        img, div {
+            -webkit-user-drag: none;
+        }
+    </style>
+</head>
+<body class="bg-white text-black font-sans antialiased flex flex-col min-h-screen">
+<header class="w-full bg-white z-50 sticky top-0 border-b border-gray-100 transition-all duration-300" id="main-header">
+<div class="max-w-[1600px] mx-auto px-4 md:px-12 py-4 relative bg-white z-20 flex flex-col items-center">
+<!-- Botones flotantes a la derecha (Suscripción y Menú) -->
+<div id="header-buttons" class="absolute right-4 md:right-12 top-10 flex items-center gap-4 z-30 transition-all duration-300">
+<button class="bg-black text-white text-[11px] font-bold px-4 py-2 hover:bg-gray-800 transition-colors">
+                    구독하기
+                </button>
+<button class="text-black hover:text-gray-500 transition-colors">
+<svg fill="none" height="28" stroke="currentColor" stroke-linecap="square" stroke-width="1.5" viewBox="0 0 24 24" width="28">
+<line x1="3" x2="21" y1="6" y2="6"></line>
+<line x1="3" x2="21" y1="12" y2="12"></line>
+<line x1="3" x2="21" y1="18" y2="18"></line>
+</svg>
+</button>
+</div>
+<!-- Logo Central con Instagram añadido -->
+<div class="flex flex-col items-center justify-center pt-2 pb-6 w-full opacity-0 transition-opacity duration-300" id="devon-text">
+<a href="index.html" class="relative flex flex-col items-center">
+<span id="logo-devon" class="text-[50px] md:text-[80px] font-bold tracking-[0.05em] text-black font-serif uppercase leading-none transition-all duration-300">
+                        DEVON
+                    </span>
+<span id="logo-korea" class="text-[14px] md:text-[20px] font-display font-normal tracking-[0.25em] text-black uppercase mt-1 ml-[0.15em] transition-all duration-300">
+                        KOREA
+                    </span>
+</a>
+</div>
+<!-- Menú de Categorías inferior -->
+<nav class="w-full flex justify-center text-[12px] md:text-[14px] font-normal tracking-widest text-black uppercase bg-white font-display pb-4">
+<div class="flex items-center gap-12 md:gap-16">
+<a class="hover:text-gray-500 transition-colors" href="fashion.html" class="hover:text-gray-500 transition-colors text-black font-semibold">Fashion</a>
+<a class="hover:text-gray-500 transition-colors" href="beauty.html">Beauty</a>
+<a class="hover:text-gray-500 transition-colors" href="living.html">Living</a>
+<a class="hover:text-gray-500 transition-colors" href="culture.html">Culture</a>
+<a class="hover:text-gray-500 transition-colors" href="video.html">Video</a>
+</div>
+</nav>
+</div>
+</header>
+<main class="w-full flex-1 pb-20">
+<div class="max-w-[1600px] mx-auto px-4 md:px-12 mt-10 mb-16">
+<div class="flex items-center justify-between mb-10">
+<h1 class="section-title !mb-0">Fashion</h1>
+<a class="section-more hover:text-black" href="index.html">HOME &gt;</a>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-16">
+<article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/23/%eb%b3%b4%ea%b7%b8-%ec%9b%94%eb%93%9c-2026-%eb%b0%80%eb%9d%bc%eb%85%b8-%eb%b2%a0%ec%8a%a4%ed%8a%b8-%eb%93%9c%eb%a0%88%ec%84%9c/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab32eb8a9d29.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3">패션 뉴스</p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">'보그 월드 2026: 밀라노' 베스트 드레서</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.23</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/23/%eb%8f%8c%ec%b2%b4%ec%95%a4%ea%b0%80%eb%b0%94%eb%82%98-%ed%8c%a8%eb%b0%80%eb%a6%ac-%ec%82%b0%ec%9d%98-%eb%b3%b4%ea%b7%b8-%ec%9b%94%eb%93%9c-%eb%b0%80%eb%9d%bc%eb%85%b8-%ec%88%98%ed%8a%b8/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab3410d8358d.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">돌체앤가바나 패밀리 산의 '보그 월드: 밀라노' 수트 스타일링</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.23</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/23/%eb%af%b8%ec%9a%b0%ec%b9%98%ec%95%84-%ed%94%84%eb%9d%bc%eb%8b%a4%eb%b6%80%ed%84%b0-%eb%8e%80%eb%82%98%ea%b9%8c%ec%a7%80-%eb%b3%b4%ea%b7%b8-%ec%9b%94%eb%93%9c-%eb%b0%80%eb%9d%bc%eb%85%b8/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab331f9e9448.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">미우치아 프라다부터 뎀나까지! '보그 월드: 밀라노' 프런트 로 장식한 이탈리아 패션계 전설들</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.23</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/23/%ec%83%88%ec%b9%b4%eb%a7%a3%ea%b2%8c-%ec%9e%85%ec%9d%80-%eb%82%a0%ec%97%90%eb%8a%94-%ec%9d%b4-%ec%83%89-%ec%8b%a0%eb%b0%9c%ec%9d%84-%ec%8b%a0%ec%9c%bc%ec%84%b8%ec%9a%94/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab24e9dc46fa.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">새카맣게 입은 날에는 '이 색' 신발을 신으세요</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.23</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/23/the-munich-woman/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6aaa67eaad7a4.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">THE MUNICH WOMAN</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.23</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/21/%eb%b6%84%ec%9c%84%ea%b8%b0-%ec%9e%88%eb%8a%94-%ea%b0%80%ec%9d%84-%eb%a3%a9%ec%9d%98-%eb%b9%84%ea%b2%b0-%ec%83%9d%ea%b0%81%eb%b3%b4%eb%8b%a4-%eb%8d%94-%eb%8c%80%ec%b6%a9-%ec%9e%85%ec%96%b4/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab0ebcf278d8.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">분위기 있는 가을 룩의 비결! 생각보다 더 '대충' 입어보세요</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.21</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/21/%eb%a7%a4%ec%9d%bc-%ec%9e%85%eb%8a%94-%ea%b0%99%ec%9d%80-%ec%98%b7-%eb%8b%ac%eb%9d%bc-%eb%b3%b4%ec%9d%b4%eb%8a%94-%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a7%81-%ed%8c%81-10/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab0c96b22b47.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">매일 입는 같은 옷! 달라 보이는 스타일링 팁 10</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.21</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/21/2027%eb%85%84%ea%b9%8c%ec%a7%80-%eb%b8%94%eb%9e%99-%ec%95%a4-%ed%99%94%ec%9d%b4%ed%8a%b8%eb%b3%b4%eb%8b%a4-%ec%9e%90%ec%a3%bc-%ec%9e%85%ea%b2%8c-%eb%90%a0-%ec%bb%ac%eb%9f%ac-%ec%a1%b0%ed%95%a9/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab0c7a785bbe.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">2027년까지 '블랙 앤 화이트'보다 자주 입게 될 컬러 조합!</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.21</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/22/%ec%97%ad%ec%8b%9c-%ed%8e%b8%ed%95%9c-%ea%b2%8c-%ec%b5%9c%ea%b3%a0-%ec%85%80%eb%9f%bd%eb%93%a4%ec%9d%b4-%ec%9d%b8%ec%a0%95%ed%95%9c-%ec%9a%b4%eb%8f%99%ed%99%94-9/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab1022f731c3.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">역시 편한 게 최고! 셀럽들이 인정한 운동화 9</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.22</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/21/%ec%9a%94%ec%a6%98-%eb%a9%8b%ec%9f%81%ec%9d%b4%eb%93%a4%ec%9d%80-%ec%9d%b4-%ec%95%a1%ec%84%b8%ec%84%9c%eb%a6%ac%eb%a1%9c-%ec%b7%a8%ed%96%a5%ec%9d%84-%eb%93%9c%eb%9f%ac%eb%83%85%eb%8b%88%eb%8b%a4/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab0ba4d11cb6.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">요즘 멋쟁이들은 '이 액세서리'로 취향을 드러냅니다</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.21</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/21/%ea%b0%80%ec%9d%84-%ec%97%ac%ec%9e%90%eb%8a%94-%ed%97%90%eb%a0%81%ed%95%9c-%ec%b2%ad%eb%b0%94%ec%a7%80-%eb%8c%80%ec%8b%a0-%ed%86%b5-%eb%84%93%ec%9d%80-%ec%8a%ac%eb%9e%99%ec%8a%a4%eb%a5%bc/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab0d265387d8.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">'가을 여자'는 헐렁한 청바지 대신 통 넓은 슬랙스를 입습니다</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.21</p>
+</a>
+</article><article class="cursor-pointer group flex flex-col">
+<a href="https://www.vogue.co.kr/2026/09/23/%ec%97%84%eb%a7%88%eb%9d%bc%eb%8a%94-%ec%b1%95%ed%84%b0%eb%a1%9c-%ed%96%a5%ed%95%98%eb%8a%94-%ec%8a%88%ed%8d%bc%eb%aa%a8%eb%8d%b8-%ec%b5%9c%ec%86%8c%eb%9d%bc/" target="_blank" rel="noopener" class="contents">
+<div class="aspect-[4/3] bg-gray-200 mb-4 bg-cover bg-center" style="background-image: url('https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-22/style_6ab1dbebb567a.jpg');"></div>
+<p class="text-[13px] text-black font-normal mb-3"></p>
+<h3 class="text-[18px] md:text-[22px] font-semibold font-sans leading-snug group-hover:underline mb-3">엄마라는 챕터로 향하는 슈퍼모델 최소라</h3>
+<p class="text-[12px] text-devon-text-gray">2026.09.23</p>
+</a>
+</article>
+</div>
+</div>
+</main>
+<footer class="bg-black text-white py-16 text-center font-sans mt-0 relative z-[9999]">
+<div class="max-w-[1600px] mx-auto px-4 flex flex-col items-center relative z-20">
+<!-- Logo Central del Footer con Instagram añadido -->
+<div class="flex flex-col items-center justify-center mb-10">
+<div class="relative flex flex-col items-center">
+<span class="text-[50px] md:text-[80px] font-bold tracking-[0.05em] text-white font-serif uppercase leading-none">
+                        DEVON
+                    </span>
+<span class="text-[14px] md:text-[20px] font-display font-normal tracking-[0.25em] text-white uppercase mt-1 ml-[0.15em]">
+                        KOREA
+                    </span>
+</div>
+</div>
+<!-- Enlaces Coreanos -->
+<div class="flex flex-wrap justify-center items-center gap-3 md:gap-4 text-[12px] font-normal text-white mb-10 tracking-tight">
+<a class="hover:text-gray-400 transition-colors" href="#">정기구독</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">회사소개</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">광고/제휴</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">개인정보 처리방침</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">공지사항</a>
+</div>
+<!-- Botón de Idioma/Región -->
+<div class="relative flex justify-center w-full mt-4 mb-12">
+<button class="border border-[#333] bg-black text-white px-8 py-3 text-[13px] font-medium tracking-[0.05em] uppercase hover:border-[#666] transition-colors flex items-center justify-center gap-4 cursor-pointer relative z-50" id="country-selector-btn">
+                    KOREA <span class="text-[10px]">▲</span>
+</button>
+<div class="absolute bottom-[calc(100%+8px)] left-1/2 transform -translate-x-1/2 w-[280px] bg-white hidden flex-col z-[100] max-h-[380px] overflow-y-auto py-4 hide-scrollbar shadow-[0_0_40px_rgba(0,0,0,0.8)]" id="country-dropdown">
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">ARABIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">AUSTRALIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">BRASIL</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">BRITAIN</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">CHINA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">CZECHOSLOVAKIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">ESPAÑA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">FRANCE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">GERMANY</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">GREECE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">HONG
+                        KONG</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">INDIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">ITALIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">JAPAN</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="https://devonrevista.vercel.app">MÉXICO</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">NEDERLAND</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">PHILIPPINES</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">POLSKA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">PORTUGAL</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">SCANDINAVIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">SINGAPORE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">TAIWAN</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">THAILAND</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">TÜRKIYE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">UKRAINE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">UNITED
+                        STATES</a>
+</div>
+</div>
+<p class="text-[10px] text-[#666] uppercase tracking-widest font-bold">DEVONKOREA.COM IS OPERATED BY DOOSAN
+                MAGAZINE</p>
+</div>
+</footer>
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const countryBtn = document.getElementById('country-selector-btn');
+            const countryDropdown = document.getElementById('country-dropdown');
+
+            if (countryBtn && countryDropdown) {
+                countryBtn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    countryDropdown.classList.toggle('hidden');
+                });
+
+                document.addEventListener('click', (e) => {
+                    if (!countryBtn.contains(e.target) && !countryDropdown.contains(e.target)) {
+                        countryDropdown.classList.add('hidden');
+                    }
+                });
+            }
+
+            const introWrapper = document.createElement('div');
+            introWrapper.id = 'intro-wrapper';
+            introWrapper.style.backgroundColor = '#ffffff';
+            document.body.appendChild(introWrapper);
+            document.body.style.overflow = 'hidden';
+
+            const realLogo = document.getElementById('devon-text');
+
+            const finalLogo = document.createElement('div');
+            finalLogo.textContent = 'DEVON';
+            finalLogo.className = 'font-serif text-black font-bold tracking-[0.2em] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 opacity-0 scale-95 uppercase';
+            finalLogo.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+            finalLogo.style.fontSize = 'clamp(3rem, 12vw, 10rem)';
+            introWrapper.appendChild(finalLogo);
+
+            void finalLogo.offsetWidth;
+
+            finalLogo.style.opacity = '1';
+            finalLogo.style.transform = 'translate(-50%, -50%) scale(1)';
+
+            setTimeout(() => {
+                const realLogoTextSpan = realLogo.querySelector('span');
+                const targetRect = realLogoTextSpan.getBoundingClientRect();
+
+                introWrapper.style.transition = 'background-color 0.8s cubic-bezier(0.4, 0, 0.2, 1)';
+                introWrapper.style.backgroundColor = 'transparent';
+
+                finalLogo.style.transition = 'all 0.8s cubic-bezier(0.4, 0, 0.2, 1)';
+                finalLogo.style.top = (targetRect.top + (targetRect.height / 2)) + 'px';
+                finalLogo.style.fontSize = window.getComputedStyle(realLogoTextSpan).fontSize;
+
+                document.body.style.overflow = '';
+
+                setTimeout(() => {
+                    finalLogo.style.opacity = '0';
+                    if (realLogo) realLogo.style.opacity = '1';
+                    setTimeout(() => { introWrapper.remove(); }, 500);
+                }, 800);
+            }, 1800);
+
+            
+            // Sticky Header Logic
+            const mainHeader = document.getElementById('main-header');
+            const logoDevon = document.getElementById('logo-devon');
+            const logoKorea = document.getElementById('logo-korea');
+            const headerButtons = document.getElementById('header-buttons');
+            const devonTextDiv = document.getElementById('devon-text');
+            
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 50) {
+                    mainHeader.classList.add('py-2');
+                    mainHeader.querySelector('.py-4')?.classList.replace('py-4', 'py-1');
+                    
+                    logoDevon?.classList.replace('md:text-[80px]', 'md:text-[40px]');
+                    logoDevon?.classList.replace('text-[50px]', 'text-[30px]');
+                    
+                    logoKorea?.classList.replace('md:text-[20px]', 'md:text-[12px]');
+                    logoKorea?.classList.replace('text-[14px]', 'text-[10px]');
+                    
+                    headerButtons?.classList.replace('top-10', 'top-1/2');
+                    headerButtons?.classList.add('-translate-y-1/2');
+                    
+                    devonTextDiv?.classList.replace('pb-6', 'pb-2');
+                    
+                } else {
+                    mainHeader.classList.remove('py-2');
+                    mainHeader.querySelector('.py-1')?.classList.replace('py-1', 'py-4');
+                    
+                    logoDevon?.classList.replace('md:text-[40px]', 'md:text-[80px]');
+                    logoDevon?.classList.replace('text-[30px]', 'text-[50px]');
+                    
+                    logoKorea?.classList.replace('md:text-[12px]', 'md:text-[20px]');
+                    logoKorea?.classList.replace('text-[10px]', 'text-[14px]');
+                    
+                    headerButtons?.classList.replace('top-1/2', 'top-10');
+                    headerButtons?.classList.remove('-translate-y-1/2');
+                    
+                    devonTextDiv?.classList.replace('pb-2', 'pb-6');
+                }
+            }, { passive: true });
+
+            // TOP Button Logic
+            const topBtnContainer = document.getElementById('top-button');
+            if (topBtnContainer) {
+                window.addEventListener('scroll', () => {
+                    // Hide at very top
+                    if (window.scrollY < 300) {
+                        topBtnContainer.classList.add('opacity-0', 'pointer-events-none');
+                        return;
+                    }
+                    
+                    const rect = topBtnContainer.getBoundingClientRect();
+                    const cx = rect.left + rect.width / 2;
+                    const cy = rect.top + rect.height / 2;
+                    
+                    const elements = document.elementsFromPoint(cx, cy);
+                    let overImage = false;
+                    for (let el of elements) {
+                        if (el.tagName.toLowerCase() === 'img') {
+                            overImage = true; break;
+                        }
+                        const bg = window.getComputedStyle(el).backgroundImage;
+                        if (bg && bg !== 'none' && bg !== 'initial') {
+                            overImage = true; break;
+                        }
+                    }
+                    
+                    if (overImage) {
+                        topBtnContainer.classList.add('opacity-0', 'pointer-events-none');
+                    } else {
+                        topBtnContainer.classList.remove('opacity-0', 'pointer-events-none');
+                    }
+                }, { passive: true });
+            }
+            // Prevent right-click to protect images
+            document.addEventListener('contextmenu', (e) => {
+                e.preventDefault();
+            });
+
+            // Prevent dragging elements (like images or divs with background)
+            document.addEventListener('dragstart', (e) => {
+                e.preventDefault();
+            });
+
+            // Prevent some common inspection shortcuts (optional but helps protect)
+            document.addEventListener('keydown', (e) => {
+                if (
+                    e.key === 'F12' || 
+                    (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'C')) || 
+                    (e.ctrlKey && e.key === 'U') ||
+                    (e.metaKey && e.altKey && (e.key === 'I' || e.key === 'J' || e.key === 'C')) || 
+                    (e.metaKey && e.key === 'U')
+                ) {
+                    e.preventDefault();
+                }
+            });
+        });
+    </script>
+
+</body></html>
