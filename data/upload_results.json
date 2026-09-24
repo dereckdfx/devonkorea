@@ -1,0 +1,35 @@
+{
+  "folder": "devon-korea/2026-09-24",
+  "ok_count": 5,
+  "fail_count": 0,
+  "uploads": [
+    {
+      "pid": "style_6ab1e67fb1a27",
+      "secure_url": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-24/style_6ab1e67fb1a27.jpg",
+      "status": "ok"
+    },
+    {
+      "pid": "style_6ab377a947522",
+      "secure_url": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-24/style_6ab377a947522.jpg",
+      "status": "ok"
+    },
+    {
+      "pid": "style_6ab34567ed03f",
+      "secure_url": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-24/style_6ab34567ed03f.jpg",
+      "status": "ok"
+    },
+    {
+      "pid": "style_6ab3889791f23",
+      "secure_url": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-24/style_6ab3889791f23.jpg",
+      "status": "ok"
+    },
+    {
+      "pid": "style_6ab105073130f",
+      "secure_url": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-24/style_6ab105073130f.jpg",
+      "status": "ok"
+    }
+  ],
+  "attached_after_upload": 15,
+  "still_missing_count": 0,
+  "still_missing": []
+}
