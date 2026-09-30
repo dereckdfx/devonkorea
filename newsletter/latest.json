@@ -1,15 +1,18 @@
 {
  "site": "devon-korea",
  "lang": "ko",
- "subject": "Devon Korea | 럭셔리는 평범한 날 드러납니다, 막스마라 2027 봄/여름 컬렉션",
- "preheader": "오늘 Devon Korea에 새 기사 5개",
- "date": "2026-09-25",
+ "subject": "Devon Korea | 컬러와 낙관으로 시작된 새 시대, 드루 헨리의 꾸레주!",
+ "preheader": "오늘 Devon Korea에 새 기사 8개",
+ "date": "2026-09-30",
  "articles": [
-  "2026-09-25-859e2da0",
-  "2026-09-25-d69469be",
-  "2026-09-25-872bfafc",
-  "2026-09-25-2d2f405e",
-  "2026-09-25-14c30570"
+  "2026-09-30-27840bd7",
+  "2026-09-30-c77861c4",
+  "2026-09-30-451b9a8e",
+  "2026-09-30-279be9b8",
+  "2026-09-30-04f064c9",
+  "2026-09-29-76559fa1",
+  "2026-09-29-d864a93a",
+  "2026-09-29-9c1c886f"
  ],
  "url": "https://devonkorea.vercel.app/newsletter/latest.html"
 }
