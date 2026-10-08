@@ -1,0 +1,420 @@
+<!DOCTYPE html><html lang="ko"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>AI는 허밍하지 않는다 #3 스티브 라이히 | 데본 코리아 (Devon Korea)</title>
+    <meta name="description" content="얼마 전 제주에서 열린 &lt;료지 이케다&gt; 전시에 다녀왔습니다. 어두운 공간을 삐, 찌지직, 하고 끊기는 전자음이 가득 채우더군요. 계속 듣다 보니 박자와 리듬이 들리기 시작했습니다. 물론 저만의 착각은 아니었습니다. 료지 이케다는 이런 소리를 여러 장의 음반으로도 발표해왔으니까요.">
+    <meta property="og:title" content="AI는 허밍하지 않는다 #3 스티브 라이히 | 데본 코리아 (Devon Korea)">
+    <meta property="og:description" content="얼마 전 제주에서 열린 &lt;료지 이케다&gt; 전시에 다녀왔습니다. 어두운 공간을 삐, 찌지직, 하고 끊기는 전자음이 가득 채우더군요. 계속 듣다 보니 박자와 리듬이 들리기 시작했습니다. 물론 저만의 착각은 아니었습니다. 료지 이케다는 이런 소리를 여러 장의 음반으로도 발표해왔으니까요.">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://res.cloudinary.com/dhx58lnzb/image/upload/f_auto,q_auto,c_limit,w_1600/v1791462188/devon-korea/2026-10-08/style_6ac492b02fd36.jpg">
+<link rel="icon" type="image/png" href="https://res.cloudinary.com/dhx58lnzb/image/upload/v1784267020/Devon_Favicon_Logo_l5whgz.png">
+<!-- Google Fonts: 
+         Bodoni Moda (Logo)
+         Jost (Títulos en inglés gruesos)
+         Noto Sans KR (Texto Coreano) -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&amp;family=Jost:wght@500;600;700;800&amp;family=Noto+Sans+KR:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'sans': ['"Noto Sans KR"', 'sans-serif'],
+                        'serif': ['"Bodoni Moda"', 'serif'],
+                        'display': ['Jost', 'sans-serif'],
+                    },
+                    colors: {
+                        'devon-gray': '#f5f5f5',
+                        'devon-text-gray': '#888888',
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        /* Tipografía específica para los encabezados de sección igual a la captura */
+        .section-title { font-size: 28px; font-weight: 600; letter-spacing: -0.01em; text-transform: uppercase; color: #000; margin-bottom: 1.5rem; }
+
+        @media (min-width: 768px) { .section-title { font-size: 36px; font-weight: 500; margin-bottom: 2rem; letter-spacing: -0.01em; } }
+
+        /* Enlaces secundarios (MORE >) */
+        .section-more {
+            font-family: 'Jost', sans-serif;
+            font-weight: 500;
+            font-size: 11px;
+            letter-spacing: 0.05em;
+            color: #666;
+        }
+
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        /* Animación inicial Premium de DEVON */
+        #intro-wrapper {
+            position: fixed;
+            inset: 0;
+            background-color: #ffffff;
+            z-index: 999999;
+            overflow: hidden;
+            transition: opacity 1.2s ease-in-out, visibility 1.2s ease-in-out;
+        }
+
+        /* Protección de contenido */
+        body {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        
+        img, div {
+            -webkit-user-drag: none;
+        }
+    </style>
+</head>
+<body class="bg-white text-black font-sans antialiased flex flex-col min-h-screen">
+<header class="w-full bg-white z-50 sticky top-0 border-b border-gray-100 transition-all duration-300" id="main-header">
+<div class="max-w-[1600px] mx-auto px-4 md:px-12 py-4 relative bg-white z-20 flex flex-col items-center">
+<!-- Botones flotantes a la derecha (Suscripción y Menú) -->
+<div id="header-buttons" class="absolute right-4 md:right-12 top-10 flex items-center gap-4 z-30 transition-all duration-300">
+<button class="bg-black text-white text-[11px] font-bold px-4 py-2 hover:bg-gray-800 transition-colors">
+                    구독하기
+                </button>
+<button class="text-black hover:text-gray-500 transition-colors">
+<svg fill="none" height="28" stroke="currentColor" stroke-linecap="square" stroke-width="1.5" viewBox="0 0 24 24" width="28">
+<line x1="3" x2="21" y1="6" y2="6"></line>
+<line x1="3" x2="21" y1="12" y2="12"></line>
+<line x1="3" x2="21" y1="18" y2="18"></line>
+</svg>
+</button>
+</div>
+<!-- Logo Central con Instagram añadido -->
+<div class="flex flex-col items-center justify-center pt-2 pb-6 w-full opacity-0 transition-opacity duration-300" id="devon-text">
+<a href="../index.html" class="relative flex flex-col items-center">
+<span id="logo-devon" class="text-[50px] md:text-[80px] font-bold tracking-[0.05em] text-black font-serif uppercase leading-none transition-all duration-300">
+                        DEVON
+                    </span>
+<span id="logo-korea" class="text-[14px] md:text-[20px] font-display font-normal tracking-[0.25em] text-black uppercase mt-1 ml-[0.15em] transition-all duration-300">
+                        KOREA
+                    </span>
+</a>
+</div>
+<!-- Menú de Categorías inferior -->
+<nav class="w-full flex justify-center text-[12px] md:text-[14px] font-normal tracking-widest text-black uppercase bg-white font-display pb-4">
+<div class="flex items-center gap-12 md:gap-16">
+<a class="hover:text-gray-500 transition-colors" href="../fashion.html" class="hover:text-gray-500 transition-colors text-black font-semibold">Fashion</a>
+<a class="hover:text-gray-500 transition-colors" href="../beauty.html">Beauty</a>
+<a class="hover:text-gray-500 transition-colors" href="../living.html">Living</a>
+<a class="hover:text-gray-500 transition-colors" href="../culture.html">Culture</a>
+<a class="hover:text-gray-500 transition-colors" href="../video.html">Video</a>
+</div>
+</nav>
+</div>
+</header>
+<main class="w-full flex-1 pb-20">
+    <article>
+        <header class="max-w-3xl mx-auto px-4 md:px-8 pt-10 text-center">
+            <p class="text-[11px] font-bold tracking-[0.2em] uppercase text-gray-500 mb-4">엔터테인먼트</p>
+            <h1 class="text-3xl md:text-5xl font-bold leading-snug text-black mb-5">AI는 허밍하지 않는다 #3 스티브 라이히</h1>
+            
+            <p class="text-xs font-semibold tracking-wider text-black">하솔휘</p>
+            <p class="text-xs text-gray-500 mt-1">2026.10.08</p>
+        </header>
+        <figure class="max-w-4xl mx-auto px-4 md:px-8 mt-8"><img src="https://res.cloudinary.com/dhx58lnzb/image/upload/f_auto,q_auto,c_limit,w_1600/v1791462188/devon-korea/2026-10-08/style_6ac492b02fd36.jpg" alt="AI는 허밍하지 않는다 #3 스티브 라이히" class="w-full h-auto max-h-[85vh] object-cover"/></figure>
+        <div class="max-w-2xl mx-auto px-5 md:px-0 py-10 text-[17px] leading-[1.9] text-gray-900 space-y-6 break-keep">
+<p>얼마 전 제주에서 열린 &lt;료지 이케다&gt; 전시에 다녀왔습니다. 어두운 공간을 삐, 찌지직, 하고 끊기는 전자음이 가득 채우더군요. 계속 듣다 보니 박자와 리듬이 들리기 시작했습니다. 물론 저만의 착각은 아니었습니다. 료지 이케다는 이런 소리를 여러 장의 음반으로도 발표해왔으니까요. 이번 제주에서는 턴테이블 10대에서 서로 다른 주기로 소리를 반복하는 퍼포먼스 &lt;10 Turntables&gt;도 선보였죠. 보다 보니 궁금해졌습니다. 우리가 ‘노래’라고 부를 수 있는 최소 단위는 어디서부터일까? 그리고 흔히 노래 뒤에 따라붙는 ‘가락’이라는 말은 무엇을 뜻하는 걸까?</p>
+<figure class="my-8"><img src="https://res.cloudinary.com/dhx58lnzb/image/upload/f_auto,q_auto,c_limit,w_1600/v1791462188/devon-korea/2026-10-08/style_6ac492b02fd36.jpg" alt="섬네일 디자인 한다혜" loading="lazy" class="w-full h-auto"/><figcaption class="text-xs text-gray-500 mt-2">섬네일 디자인 한다혜</figcaption></figure>
+<p>가락에는 ‘목소리의 높낮이나 길이를 통해 느껴지는 말의 기운’, ‘음악적 통일을 이루는 음의 연속’, ‘소리의 높낮이가 길이나 리듬과 어울려 나타나는 음의 흐름’ 같은 뜻이 있습니다. 꼭 악기가 있어야 가락이 생기는 건 아니라는 얘기입니다. 말에도 높낮이가 있고, 반복되는 소음에도 리듬이 있죠. 평소에는 그걸 음악이라고 부르지 않을 뿐입니다.</p>
+<p>어디까지 음악이 될 수 있는지 오래 시험해온 작곡가가 있습니다. 지난 10월 3일 아흔 번째 생일을 맞은 스티브 라이히입니다. 미니멀리즘 음악의 선구자인 그는 60년 넘게 사람의 말과 테이프 레코더, 자동차 경적과 손뼉처럼 세상에 존재하던 소리를 음악 재료로 써왔습니다.</p>
+<h2 class="text-xl md:text-2xl font-bold text-black pt-4">사방이 노래</h2>
+<p>1995년 작품 &lt;City Life&gt; 속에는 뉴욕의 소음이 가득합니다.</p>
+<figure class="my-8"><div style="position:relative;padding-top:56.25%;background:#000"><iframe src="https://www.youtube-nocookie.com/embed/1qSgxRnBvLg" title="Steve Reich, City Life - Part 1 Check it out" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="position:absolute;inset:0;width:100%;height:100%"></iframe></div><figcaption class="text-xs text-gray-500 mt-2">Steve Reich, City Life - Part 1 Check it out</figcaption></figure>
+<p>자동차 경적, 문 닫히는 소리, 버스 에어 브레이크, 배의 기적, 사람들의 목소리. 라이히가 직접 뉴욕을 돌아다니며 녹음한 소리죠. 스티브 라이히는 이 소리를 샘플러에 넣고 실제 악기와 나란히 배치했습니다. 자동차 경적에는 목관악기가 반응하고, 문 닫히는 소리에는 베이스 드럼이, 에어 브레이크에는 심벌즈가 따라붙는 식이죠.</p>
+<p>딱히 반가운 소리는 아니죠. 윗집에서 발도끼를 찍을 때 “리듬 참 훌륭하군”이라고 생각하는 사람은 별로 없을 테니까요. 하지만 라이히는 이런 생활 소음에서도 반복되는 패턴을 발견했습니다. 지하철 문이 닫히는 소리, 버스 카드 단말기의 알림음, 자동차 방향 지시등의 딸깍거림에도 모두 일정한 간격, 그러니까 ‘박자’가 있죠. 사무실에서는 키보드가 제각기 다른 속도로 하모니를 이루고요. 앨범 &lt;City Life&gt;는 이런 소리를 지우지 않고 음악으로 담아냈습니다.</p>
+<h2 class="text-xl md:text-2xl font-bold text-black pt-4">의미를 벗겨내기</h2>
+<p>지금은 사람의 목소리를 잘라 반복하고 겹치는 방식을 샘플링이나 전자음악에서 흔히 듣습니다. 스티브 라이히는 이미 1965년 테이프 두 대로 비슷한 실험을 하고 있었습니다. 샌프란시스코 거리에서 종말을 경고하던 한 설교자의 목소리를 녹음했죠. ‘It’s Gonna Rain.’ 비가 올 거라고요.</p>
+<figure class="my-8"><div style="position:relative;padding-top:56.25%;background:#000"><iframe src="https://www.youtube-nocookie.com/embed/X1zuX6nRHNk" title="It&#x27;s Gonna Rain, Pt. I (1965)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="position:absolute;inset:0;width:100%;height:100%"></iframe></div><figcaption class="text-xs text-gray-500 mt-2">It&#x27;s Gonna Rain, Pt. I (1965)</figcaption></figure>
+<p>이때 두 레코더의 속도가 미세하게 달랐습니다. 처음에는 하나로 포개지던 목소리가 반복할수록 조금씩 어긋났죠. 서로 메아리치는 목소리는 어느 순간에는 ‘비가 온다’라는 말보다 하나의 가락처럼 들리기 시작했습니다. 라이히는 이 차이를 고치지 않고 그대로 이용했습니다. 같은 소리를 반복하면서 조금씩 시간차를 벌리는 ‘페이징(Phasing)’ 기법입니다.</p>
+<p>테이프에서 시작한 실험은 실제 연주로도 옮겨갔습니다. &lt;Drumming&gt;(1971)은 라이히가 페이징을 크게 확장한 작품입니다. 연주자들은 같은 리듬을 반복하면서 조금씩 박자를 어긋나게 만듭니다. 처음에는 한 음만 치다가 쉼표 자리를 하나씩 박자로 채우며 새로운 패턴을 만들기도 하죠. 악기도 차례로 바뀝니다. 봉고에서 마림바, 글로켄슈필로 악기가 바뀌는 동안 리듬은 계속 이어집니다. 목소리까지 악기의 음색을 흉내 내며 들어오죠. 테이프 두 대가 조금씩 어긋나며 만들던 리듬을 이제는 여러 연주자가 직접 만들어내는 겁니다.</p>
+<figure class="my-8"><div style="position:relative;padding-top:56.25%;background:#000"><iframe src="https://www.youtube-nocookie.com/embed/uDhwFTw4VnI" title="Steve Reich - Drumming" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="position:absolute;inset:0;width:100%;height:100%"></iframe></div><figcaption class="text-xs text-gray-500 mt-2">Steve Reich - Drumming</figcaption></figure>
+<h2 class="text-xl md:text-2xl font-bold text-black pt-4">악기도 필요 없다</h2>
+<p>&lt;Clapping Music&gt;(1972)은 여기서 재료를 더 줄입니다. 1971년부터 유럽 투어를 다니던 라이히 앙상블은 스피커, 앰프, 드럼, 마림바, 전기오르간 등 약 900kg에 달하는 장비를 싣고 다녔습니다. 결국 라이히는 인간 몸 말고는 아무 악기도 필요 없는 곡을 쓰기로 했습니다.</p>
+<figure class="my-8"><div style="position:relative;padding-top:56.25%;background:#000"><iframe src="https://www.youtube-nocookie.com/embed/hH1j06bMHDQ" title="Steve Reich &amp; Wolfram Winkel - Clapping Music" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="position:absolute;inset:0;width:100%;height:100%"></iframe></div><figcaption class="text-xs text-gray-500 mt-2">Steve Reich &amp; Wolfram Winkel - Clapping Music</figcaption></figure>
+<p>답은 손뼉이었죠. 처음에는 테이프처럼 박자가 서서히 어긋나는 페이징을 적용하려 했습니다. 하지만 손뼉으로 연주하기에는 너무 복잡했습니다. 그래서 방법을 바꿨죠. 두 사람이 같은 리듬을 치되, 한 사람은 그대로 반복합니다. 다른 사람만 몇 차례 반복할 때마다 시작점을 한 박씩 앞으로 옮깁니다. 똑같은 리듬인데 어디서 시작하느냐에 따라 전혀 다른 조합처럼 들립니다.</p>
+<p>&lt;City Life&gt;에서는 도시 전체를 재료로 썼고, ‘Clapping Music’에서는 두 사람의 손뼉만 남았습니다. 그래도 둘 다 ‘노래’라 불리며 지금까지 사람이 듣고 있죠.</p>
+<h2 class="text-xl md:text-2xl font-bold text-black pt-4">달에는 토끼가 살고, 별은 물고기가 된다</h2>
+<p>사람은 세상을 있는 그대로 받아들이는 데 영 소질이 없습니다. 달에서 토끼 무늬를 보고, 흩어진 별을 이어 물고기와 전갈을 만들죠. 사람도 아닌 존재에게 사람의 마음을 기대하기도 합니다. 천선란 &lt;뼈의 기록&gt;이나 김영하 &lt;작별인사&gt; 같은 SF 소설에서는 인간과 인간이 아닌 존재 사이에서 사랑과 슬픔, 기억과 감정에 관한 질문이 오갑니다. 달 무늬와 별자리, 그리고 기계가 인간의 감정을 이해할 수 있는지 묻게 되는 데에는 우리가 익숙한 방식으로 낯선 대상을 이해하려는 태도가 있습니다.</p>
+<p>소리를 대할 때도 비슷합니다. 라이히는 도시 소음, 사람의 말, 기계에서 생긴 시간차, 손뼉까지 음악에 끌어들였습니다. 원래부터 ‘음악’이라고 정해진 소리는 하나도 없었죠. 어쩌면 음악을 만들기에 앞서 필요한 건, 음악이 아닌 소리에서도 리듬과 높낮이를 듣는 일인지도 모릅니다.</p>
+<h2 class="text-xl md:text-2xl font-bold text-black pt-4">스티브 라이히가 작곡한 곡들</h2>
+<figure class="my-8"><div style="position:relative;padding-top:56.25%;background:#000"><iframe src="https://www.youtube-nocookie.com/embed/iO284FtWPkk" title="Steve Reich and Musicians - Six Pianos - Live in Amsterdam 1976" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="position:absolute;inset:0;width:100%;height:100%"></iframe></div><figcaption class="text-xs text-gray-500 mt-2">Steve Reich and Musicians - Six Pianos - Live in Amsterdam 1976</figcaption></figure>
+<figure class="my-8"><div style="position:relative;padding-top:56.25%;background:#000"><iframe src="https://www.youtube-nocookie.com/embed/ZXJWO2FQ16c" title="Steve Reich, &quot;Music for 18 Musicians&quot; - FULL PERFORMANCE with eighth blackbird" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="position:absolute;inset:0;width:100%;height:100%"></iframe></div><figcaption class="text-xs text-gray-500 mt-2">Steve Reich, &quot;Music for 18 Musicians&quot; - FULL PERFORMANCE with eighth blackbird</figcaption></figure>
+<figure class="my-8"><div style="position:relative;padding-top:56.25%;background:#000"><iframe src="https://www.youtube-nocookie.com/embed/wRN_jUrJSnE" title="Steve Reich: 2x5" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" frameborder="0" style="position:absolute;inset:0;width:100%;height:100%"></iframe></div><figcaption class="text-xs text-gray-500 mt-2">Steve Reich: 2x5</figcaption></figure>
+<h2 class="text-xl md:text-2xl font-bold text-black pt-4">AI는 허밍하지 않는다</h2>
+<h2 class="text-xl md:text-2xl font-bold text-black pt-4">데본 뮤직</h2>
+            
+        </div>
+    </article>
+
+        <section class="max-w-7xl mx-auto px-4 md:px-6 mt-16 mb-12">
+            <div class="border-t border-b border-gray-200 py-3 md:py-4 mb-8">
+                <h2 class="text-lg md:text-xl font-light tracking-wide text-gray-700 uppercase">데본 추천 기사</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <a href="2026-10-08-888ad4e2.html" class="group flex flex-col items-start">
+                    <div class="w-full overflow-hidden mb-4 bg-gray-100 aspect-[4/5]">
+                        <img src="https://res.cloudinary.com/dhx58lnzb/image/upload/f_auto,q_auto,c_limit,w_1600/v1791462215/devon-korea/2026-10-08/style_6ac76333951a8.jpg" alt="화제작 ‘옵세션’ 세계관을 이을, 커리 바커 감독의 차기작은?" loading="lazy" class="w-full h-full object-cover group-hover:opacity-90 transition-opacity duration-300"/>
+                    </div>
+                    <p class="text-[9px] md:text-[10px] font-bold tracking-widest uppercase text-black mb-2">엔터테인먼트</p>
+                    <h3 class="text-lg font-bold text-black leading-snug group-hover:underline">화제작 ‘옵세션’ 세계관을 이을, 커리 바커 감독의 차기작은?</h3>
+                </a>
+                <a href="2026-10-08-a7912ef4.html" class="group flex flex-col items-start">
+                    <div class="w-full overflow-hidden mb-4 bg-gray-100 aspect-[4/5]">
+                        <img src="https://res.cloudinary.com/dhx58lnzb/image/upload/f_auto,q_auto,c_limit,w_1600/v1791462217/devon-korea/2026-10-08/style_6ac750f4a1e9d.jpg" alt="가을에 보기 좋은 고전문학 원작 2026 영화·드라마 5편" loading="lazy" class="w-full h-full object-cover group-hover:opacity-90 transition-opacity duration-300"/>
+                    </div>
+                    <p class="text-[9px] md:text-[10px] font-bold tracking-widest uppercase text-black mb-2">엔터테인먼트</p>
+                    <h3 class="text-lg font-bold text-black leading-snug group-hover:underline">가을에 보기 좋은 고전문학 원작 2026 영화·드라마 5편</h3>
+                </a>
+                <a href="2026-10-08-e4f860fd.html" class="group flex flex-col items-start">
+                    <div class="w-full overflow-hidden mb-4 bg-gray-100 aspect-[4/5]">
+                        <img src="https://res.cloudinary.com/dhx58lnzb/image/upload/f_auto,q_auto,c_limit,w_1600/v1791462212/devon-korea/2026-10-08/style_6ac70a9e8c9f9.jpg" alt="세종대왕님도 칭찬하실 맵시로운 한글 탐구" loading="lazy" class="w-full h-full object-cover group-hover:opacity-90 transition-opacity duration-300"/>
+                    </div>
+                    <p class="text-[9px] md:text-[10px] font-bold tracking-widest uppercase text-black mb-2">아트</p>
+                    <h3 class="text-lg font-bold text-black leading-snug group-hover:underline">세종대왕님도 칭찬하실 맵시로운 한글 탐구</h3>
+                </a>
+            </div>
+        </section>
+</main>
+<footer class="bg-black text-white py-16 text-center font-sans mt-0 relative z-[9999]">
+<div class="max-w-[1600px] mx-auto px-4 flex flex-col items-center relative z-20">
+<!-- Logo Central del Footer con Instagram añadido -->
+<div class="flex flex-col items-center justify-center mb-10">
+<div class="relative flex flex-col items-center">
+<span class="text-[50px] md:text-[80px] font-bold tracking-[0.05em] text-white font-serif uppercase leading-none">
+                        DEVON
+                    </span>
+<span class="text-[14px] md:text-[20px] font-display font-normal tracking-[0.25em] text-white uppercase mt-1 ml-[0.15em]">
+                        KOREA
+                    </span>
+</div>
+</div>
+<!-- Enlaces Coreanos -->
+<div class="flex flex-wrap justify-center items-center gap-3 md:gap-4 text-[12px] font-normal text-white mb-10 tracking-tight">
+<a class="hover:text-gray-400 transition-colors" href="#">정기구독</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">회사소개</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">광고/제휴</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">개인정보 처리방침</a>
+<span class="text-[#333] text-[10px]">|</span>
+<a class="hover:text-gray-400 transition-colors" href="#">공지사항</a>
+</div>
+<!-- Botón de Idioma/Región -->
+<div class="relative flex justify-center w-full mt-4 mb-12">
+<button class="border border-[#333] bg-black text-white px-8 py-3 text-[13px] font-medium tracking-[0.05em] uppercase hover:border-[#666] transition-colors flex items-center justify-center gap-4 cursor-pointer relative z-50" id="country-selector-btn">
+                    KOREA <span class="text-[10px]">▲</span>
+</button>
+<div class="absolute bottom-[calc(100%+8px)] left-1/2 transform -translate-x-1/2 w-[280px] bg-white hidden flex-col z-[100] max-h-[380px] overflow-y-auto py-4 hide-scrollbar shadow-[0_0_40px_rgba(0,0,0,0.8)]" id="country-dropdown">
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">ARABIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">AUSTRALIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">BRASIL</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">BRITAIN</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">CHINA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">CZECHOSLOVAKIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">ESPAÑA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">FRANCE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">GERMANY</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">GREECE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">HONG
+                        KONG</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">INDIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">ITALIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">JAPAN</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="https://devonrevista.vercel.app">MÉXICO</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">NEDERLAND</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">PHILIPPINES</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">POLSKA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">PORTUGAL</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">SCANDINAVIA</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">SINGAPORE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">TAIWAN</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">THAILAND</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">TÜRKIYE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">UKRAINE</a>
+<a class="block px-8 py-3 text-[13px] font-display font-medium tracking-[0.1em] text-[#999] hover:text-black transition-colors uppercase text-left" href="#">UNITED
+                        STATES</a>
+</div>
+</div>
+<p class="text-[10px] text-[#666] uppercase tracking-widest font-bold">DEVONKOREA.COM IS OPERATED BY DOOSAN
+                MAGAZINE</p>
+</div>
+</footer>
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const countryBtn = document.getElementById('country-selector-btn');
+            const countryDropdown = document.getElementById('country-dropdown');
+
+            if (countryBtn && countryDropdown) {
+                countryBtn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    countryDropdown.classList.toggle('hidden');
+                });
+
+                document.addEventListener('click', (e) => {
+                    if (!countryBtn.contains(e.target) && !countryDropdown.contains(e.target)) {
+                        countryDropdown.classList.add('hidden');
+                    }
+                });
+            }
+
+            const introWrapper = document.createElement('div');
+            introWrapper.id = 'intro-wrapper';
+            introWrapper.style.backgroundColor = '#ffffff';
+            document.body.appendChild(introWrapper);
+            document.body.style.overflow = 'hidden';
+
+            const realLogo = document.getElementById('devon-text');
+
+            const finalLogo = document.createElement('div');
+            finalLogo.textContent = 'DEVON';
+            finalLogo.className = 'font-serif text-black font-bold tracking-[0.2em] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 opacity-0 scale-95 uppercase';
+            finalLogo.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+            finalLogo.style.fontSize = 'clamp(3rem, 12vw, 10rem)';
+            introWrapper.appendChild(finalLogo);
+
+            void finalLogo.offsetWidth;
+
+            finalLogo.style.opacity = '1';
+            finalLogo.style.transform = 'translate(-50%, -50%) scale(1)';
+
+            setTimeout(() => {
+                const realLogoTextSpan = realLogo.querySelector('span');
+                const targetRect = realLogoTextSpan.getBoundingClientRect();
+
+                introWrapper.style.transition = 'background-color 0.8s cubic-bezier(0.4, 0, 0.2, 1)';
+                introWrapper.style.backgroundColor = 'transparent';
+
+                finalLogo.style.transition = 'all 0.8s cubic-bezier(0.4, 0, 0.2, 1)';
+                finalLogo.style.top = (targetRect.top + (targetRect.height / 2)) + 'px';
+                finalLogo.style.fontSize = window.getComputedStyle(realLogoTextSpan).fontSize;
+
+                document.body.style.overflow = '';
+
+                setTimeout(() => {
+                    finalLogo.style.opacity = '0';
+                    if (realLogo) realLogo.style.opacity = '1';
+                    setTimeout(() => { introWrapper.remove(); }, 500);
+                }, 800);
+            }, 1800);
+
+            
+            // Sticky Header Logic
+            const mainHeader = document.getElementById('main-header');
+            const logoDevon = document.getElementById('logo-devon');
+            const logoKorea = document.getElementById('logo-korea');
+            const headerButtons = document.getElementById('header-buttons');
+            const devonTextDiv = document.getElementById('devon-text');
+            
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 50) {
+                    mainHeader.classList.add('py-2');
+                    mainHeader.querySelector('.py-4')?.classList.replace('py-4', 'py-1');
+                    
+                    logoDevon?.classList.replace('md:text-[80px]', 'md:text-[40px]');
+                    logoDevon?.classList.replace('text-[50px]', 'text-[30px]');
+                    
+                    logoKorea?.classList.replace('md:text-[20px]', 'md:text-[12px]');
+                    logoKorea?.classList.replace('text-[14px]', 'text-[10px]');
+                    
+                    headerButtons?.classList.replace('top-10', 'top-1/2');
+                    headerButtons?.classList.add('-translate-y-1/2');
+                    
+                    devonTextDiv?.classList.replace('pb-6', 'pb-2');
+                    
+                } else {
+                    mainHeader.classList.remove('py-2');
+                    mainHeader.querySelector('.py-1')?.classList.replace('py-1', 'py-4');
+                    
+                    logoDevon?.classList.replace('md:text-[40px]', 'md:text-[80px]');
+                    logoDevon?.classList.replace('text-[30px]', 'text-[50px]');
+                    
+                    logoKorea?.classList.replace('md:text-[12px]', 'md:text-[20px]');
+                    logoKorea?.classList.replace('text-[10px]', 'text-[14px]');
+                    
+                    headerButtons?.classList.replace('top-1/2', 'top-10');
+                    headerButtons?.classList.remove('-translate-y-1/2');
+                    
+                    devonTextDiv?.classList.replace('pb-2', 'pb-6');
+                }
+            }, { passive: true });
+
+            // TOP Button Logic
+            const topBtnContainer = document.getElementById('top-button');
+            if (topBtnContainer) {
+                window.addEventListener('scroll', () => {
+                    // Hide at very top
+                    if (window.scrollY < 300) {
+                        topBtnContainer.classList.add('opacity-0', 'pointer-events-none');
+                        return;
+                    }
+                    
+                    const rect = topBtnContainer.getBoundingClientRect();
+                    const cx = rect.left + rect.width / 2;
+                    const cy = rect.top + rect.height / 2;
+                    
+                    const elements = document.elementsFromPoint(cx, cy);
+                    let overImage = false;
+                    for (let el of elements) {
+                        if (el.tagName.toLowerCase() === 'img') {
+                            overImage = true; break;
+                        }
+                        const bg = window.getComputedStyle(el).backgroundImage;
+                        if (bg && bg !== 'none' && bg !== 'initial') {
+                            overImage = true; break;
+                        }
+                    }
+                    
+                    if (overImage) {
+                        topBtnContainer.classList.add('opacity-0', 'pointer-events-none');
+                    } else {
+                        topBtnContainer.classList.remove('opacity-0', 'pointer-events-none');
+                    }
+                }, { passive: true });
+            }
+            // Prevent right-click to protect images
+            document.addEventListener('contextmenu', (e) => {
+                e.preventDefault();
+            });
+
+            // Prevent dragging elements (like images or divs with background)
+            document.addEventListener('dragstart', (e) => {
+                e.preventDefault();
+            });
+
+            // Prevent some common inspection shortcuts (optional but helps protect)
+            document.addEventListener('keydown', (e) => {
+                if (
+                    e.key === 'F12' || 
+                    (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'C')) || 
+                    (e.ctrlKey && e.key === 'U') ||
+                    (e.metaKey && e.altKey && (e.key === 'I' || e.key === 'J' || e.key === 'C')) || 
+                    (e.metaKey && e.key === 'U')
+                ) {
+                    e.preventDefault();
+                }
+            });
+        });
+    </script>
+
+<script src="/js/newsletter.js" defer></script>
+</body></html>
