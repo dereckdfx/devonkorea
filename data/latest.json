@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T06:33:02-06:00",
+  "scraped_at": "2026-10-16T06:24:49-06:00",
   "source": "https://www.vogue.co.kr (RSS fallback)",
   "slots": {
     "hero": {
@@ -22,40 +22,40 @@
     },
     "today_small": [
       {
-        "title": "일본 최고령 트레이너가 노화를 막기 위해 고안한 ‘까치발 운동’",
-        "url": "https://www.vogue.co.kr/2026/10/15/%ec%9d%bc%eb%b3%b8-%ec%b5%9c%ea%b3%a0%eb%a0%b9-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%84%88%ea%b0%80-%eb%85%b8%ed%99%94%eb%a5%bc-%eb%a7%89%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b3%a0%ec%95%88%ed%95%9c-%ea%b9%8c/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad08fc4a89ca-scaled-1920x1080.jpg",
-        "category": "웰니스",
-        "date": "2026.10.15 by 송가혜, Ana Morales",
+        "title": "“사람을 슬프게 하는 것은 하나도 없다”, 이대원 회고전",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%82%ac%eb%9e%8c%ec%9d%84-%ec%8a%ac%ed%94%84%ea%b2%8c-%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%80-%ed%95%98%eb%82%98%eb%8f%84-%ec%97%86%eb%8b%a4-%ec%9d%b4%eb%8c%80%ec%9b%90-%ed%9a%8c%ea%b3%a0/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1eda83a885-scaled-1920x1080.jpg",
+        "category": "아트",
+        "date": "2026.10.16 by 하솔휘",
         "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067598/devon-korea/2026-10-15/style_6ad08fc4a89ca.jpg"
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153509/devon-korea/2026-10-16/style_6ad1eda83a885.jpg"
       },
       {
-        "title": "1997 오스카 시상식 샤넬 룩을 새롭게 재해석한 셀린 디온",
-        "url": "https://www.vogue.co.kr/2026/10/15/1997-%ec%98%a4%ec%8a%a4%ec%b9%b4-%ec%8b%9c%ec%83%81%ec%8b%9d-%ec%83%a4%eb%84%ac-%eb%a3%a9%ec%9d%84-%ec%83%88%eb%a1%ad%ea%b2%8c-%ec%9e%ac%ed%95%b4%ec%84%9d%ed%95%9c-%ec%85%80%eb%a6%b0-%eb%94%94/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0698c51509-scaled-1920x1080.jpg",
+        "title": "관능을 넘어 낭만으로, 플로렌스 퓨가 정의한 시스루 드레스 스타일",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ea%b4%80%eb%8a%a5%ec%9d%84-%eb%84%98%ec%96%b4-%eb%82%ad%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ed%94%8c%eb%a1%9c%eb%a0%8c%ec%8a%a4-%ed%93%a8%ea%b0%80-%ec%a0%95%ec%9d%98%ed%95%9c-%ec%8b%9c%ec%8a%a4%eb%a3%a8/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1ef1f2996d-scaled-1920x1080.jpg",
         "category": "셀러브리티 스타일",
-        "date": "2026.10.15 by 오기쁨",
+        "date": "2026.10.16 by 오기쁨",
         "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067600/devon-korea/2026-10-15/style_6ad0698c51509.jpg"
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153509/devon-korea/2026-10-16/style_6ad1ef1f2996d.jpg"
       },
       {
-        "title": "엄마 된 레이디 가가, 부드럽고 우아해진 패션",
-        "url": "https://www.vogue.co.kr/2026/10/15/%ec%97%84%eb%a7%88-%eb%90%9c-%eb%a0%88%ec%9d%b4%eb%94%94-%ea%b0%80%ea%b0%80-%eb%b6%80%eb%93%9c%eb%9f%bd%ea%b3%a0-%ec%9a%b0%ec%95%84%ed%95%b4%ec%a7%84-%ed%8c%a8%ec%85%98/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0991b1e073-scaled-1920x1080.jpg",
+        "title": "해리 왕자 부부, 복귀 후 첫 일정에서 선보인 세련된 스타일",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ed%95%b4%eb%a6%ac-%ec%99%95%ec%9e%90-%eb%b6%80%eb%b6%80-%eb%b3%b5%ea%b7%80-%ed%9b%84-%ec%b2%ab-%ec%9d%bc%ec%a0%95%ec%97%90%ec%84%9c-%ec%84%a0%eb%b3%b4%ec%9d%b8-%ec%84%b8%eb%a0%a8%eb%90%9c-%ec%8a%a4/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1e5b911195-scaled-1920x1080.jpg",
         "category": "셀러브리티 스타일",
-        "date": "2026.10.15 by 오기쁨",
+        "date": "2026.10.16 by 오기쁨",
         "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067605/devon-korea/2026-10-15/style_6ad0991b1e073.jpg"
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153512/devon-korea/2026-10-16/style_6ad1e5b911195.jpg"
       },
       {
-        "title": "2027년, 우리의 여행은 어떤 모습일까요?",
-        "url": "https://www.vogue.co.kr/2026/10/15/2027%eb%85%84-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%97%ac%ed%96%89%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%aa%a8%ec%8a%b5%ec%9d%bc%ea%b9%8c%ec%9a%94/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad08e941bd88-scaled-1920x1080.jpg",
-        "category": "여행",
-        "date": "2026.10.15 by 오기쁨",
+        "title": "손가락 길어 보이는 네일? 해외에서 주목받는 ‘리프트 매니큐어’",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%86%90%ea%b0%80%eb%9d%bd-%ea%b8%b8%ec%96%b4-%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%84%a4%ec%9d%bc-%ed%95%b4%ec%99%b8%ec%97%90%ec%84%9c-%ec%a3%bc%eb%aa%a9%eb%b0%9b%eb%8a%94-%eb%a6%ac%ed%94%84/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad093f4418cf-scaled-1920x1080.jpg",
+        "category": "뷰티 트렌드",
+        "date": "2026.10.16 by 송가혜, Audrey Noble",
         "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067608/devon-korea/2026-10-15/style_6ad08e941bd88.jpg"
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153515/devon-korea/2026-10-16/style_6ad093f4418cf.jpg"
       }
     ],
     "best": [
@@ -230,6 +230,15 @@
     ],
     "living": [
       {
+        "title": "2027년, 우리의 여행은 어떤 모습일까요?",
+        "url": "https://www.vogue.co.kr/2026/10/15/2027%eb%85%84-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%97%ac%ed%96%89%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%aa%a8%ec%8a%b5%ec%9d%bc%ea%b9%8c%ec%9a%94/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad08e941bd88-scaled-1920x1080.jpg",
+        "category": "여행",
+        "date": "2026.10.15 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067608/devon-korea/2026-10-15/style_6ad08e941bd88.jpg"
+      },
+      {
         "title": "빅토리아 베컴의 미적 감각이 담긴 홈웨어는 어떤 모습일까?",
         "url": "https://www.vogue.co.kr/2026/10/13/%eb%b9%85%ed%86%a0%eb%a6%ac%ec%95%84-%eb%b2%a0%ec%bb%b4%ec%9d%98-%eb%af%b8%ec%a0%81-%ea%b0%90%ea%b0%81%ec%9d%b4-%eb%8b%b4%ea%b8%b4-%ed%99%88%ec%9b%a8%ec%96%b4%eb%8a%94-%ec%96%b4%eb%96%a4-%eb%aa%a8/",
         "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acdeb0bec232-759x500.jpg?x=1542&y=2061",
@@ -255,15 +264,6 @@
         "date": "2026.10.10 by VOGUE",
         "section": null,
         "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791635106/devon-korea/2026-10-10/style_6abcbe032d5e0.jpg"
-      },
-      {
-        "title": "시에나와 사바나 밀러 자매의 엄마 되기",
-        "url": "https://www.vogue.co.kr/2026/10/10/%ec%8b%9c%ec%97%90%eb%82%98%ec%99%80-%ec%82%ac%eb%b0%94%eb%82%98-%eb%b0%80%eb%9f%ac-%ec%9e%90%eb%a7%a4%ec%9d%98-%ec%97%84%eb%a7%88-%eb%90%98%ea%b8%b0/",
-        "image": "https://img.vogue.co.kr/vogue/2026/09/style_6abcc02439bad-500x500.jpg?x=923&y=923",
-        "category": "라이프",
-        "date": "2026.10.10 by 전수연",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791635107/devon-korea/2026-10-10/style_6abcc02439bad.jpg"
       }
     ],
     "culture": [
@@ -297,6 +297,60 @@
     ],
     "latest": [
       {
+        "title": "캘빈클라인 여정 마무리하는 베로니카 레오니",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%ba%98%eb%b9%88%ed%81%b4%eb%9d%bc%ec%9d%b8-%ec%97%ac%ec%a0%95-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%8a%94-%eb%b2%a0%eb%a1%9c%eb%8b%88%ec%b9%b4-%eb%a0%88%ec%98%a4%eb%8b%88/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1acc80f3a3-scaled-1920x1080.jpg",
+        "category": "셀러브리티 스타일",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153517/devon-korea/2026-10-16/style_6ad1acc80f3a3.jpg"
+      },
+      {
+        "title": "션 맥기르, 맥퀸 떠난다",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%85%98-%eb%a7%a5%ea%b8%b0%eb%a5%b4-%eb%a7%a5%ed%80%b8-%eb%96%a0%eb%82%9c%eb%8b%a4/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad19f03b375c-scaled-1920x1080.jpg",
+        "category": "패션 뉴스",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153518/devon-korea/2026-10-16/style_6ad19f03b375c.jpg"
+      },
+      {
+        "title": "올가을 하루걸러 하루 입게 될 ‘이 바지’!",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%98%ac%ea%b0%80%ec%9d%84-%ed%95%98%eb%a3%a8%ea%b1%b8%eb%9f%ac-%ed%95%98%eb%a3%a8-%ec%9e%85%ea%b2%8c-%eb%90%a0-%ec%9d%b4-%eb%b0%94%ec%a7%80/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad19d40de6e8-1920x1080.jpg",
+        "category": "패션 아이템",
+        "date": "2026.10.16 by 하솔휘",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153522/devon-korea/2026-10-16/style_6ad19d40de6e8.jpg"
+      },
+      {
+        "title": "청바지, 꼭 캐주얼하게 입을 필요 없어요",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%b2%ad%eb%b0%94%ec%a7%80-%ea%bc%ad-%ec%ba%90%ec%a3%bc%ec%96%bc%ed%95%98%ea%b2%8c-%ec%9e%85%ec%9d%84-%ed%95%84%ec%9a%94-%ec%97%86%ec%96%b4%ec%9a%94/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad190785fd54-scaled-1920x1080.jpg",
+        "category": "패션 트렌드",
+        "date": "2026.10.16 by 소피아",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153523/devon-korea/2026-10-16/style_6ad190785fd54.jpg"
+      },
+      {
+        "title": "제니, 넷플릭스 ‘스텝스’ OST 참여",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%a0%9c%eb%8b%88-%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4-%ec%8a%a4%ed%85%9d%ec%8a%a4-ost-%ec%b0%b8%ec%97%ac/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1def9809b2-1920x1080.jpg",
+        "category": "셀럽 뉴스",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153510/devon-korea/2026-10-16/style_6ad1def9809b2.jpg"
+      },
+      {
+        "title": "호리호리한 바지는 이렇게 입어보세요",
+        "url": "https://www.vogue.co.kr/2026/10/15/%ed%98%b8%eb%a6%ac%ed%98%b8%eb%a6%ac%ed%95%9c-%eb%b0%94%ec%a7%80%eb%8a%94-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ec%9e%85%ec%96%b4%eb%b3%b4%ec%84%b8%ec%9a%94/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad049c56c710-scaled-1920x1080.jpg",
+        "category": "패션 아이템",
+        "date": "2026.10.15 by 하솔휘",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153524/devon-korea/2026-10-16/style_6ad049c56c710.jpg"
+      },
+      {
         "title": "‘인체공학’에 대한 새로운 탐구, 루이 비통 2027 봄/여름 컬렉션",
         "url": "https://www.vogue.co.kr/2026/10/15/%ec%9d%b8%ec%b2%b4%ea%b3%b5%ed%95%99%ec%97%90-%eb%8c%80%ed%95%9c-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%83%90%ea%b5%ac-%eb%a3%a8%ec%9d%b4-%eb%b9%84%ed%86%b5-2027-%eb%b4%84-%ec%97%ac/",
         "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ace54dc3fa47-1920x1080.jpg",
@@ -322,65 +376,74 @@
         "date": "2026.10.15 by 김현유, Kerry Pieri, Andrea Zendejas, Kristina Rutkowski",
         "section": null,
         "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067621/devon-korea/2026-10-15/style_6ace5e4747820.jpg"
-      },
-      {
-        "title": "가을옷을 입으니 ‘이 부츠’가 간절해졌습니다",
-        "url": "https://www.vogue.co.kr/2026/10/15/%ea%b0%80%ec%9d%84%ec%98%b7%ec%9d%84-%ec%9e%85%ec%9c%bc%eb%8b%88-%ec%9d%b4-%eb%b6%80%ec%b8%a0%ea%b0%80-%ea%b0%84%ec%a0%88%ed%95%b4%ec%a1%8c%ec%8a%b5%eb%8b%88%eb%8b%a4/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0311407c22-1920x1080.jpg",
-        "category": "패션 아이템",
-        "date": "2026.10.15 by 하솔휘",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067625/devon-korea/2026-10-15/style_6ad0311407c22.jpg"
-      },
-      {
-        "title": "로맨틱한 러브 스토리의 주인공, 빅나티",
-        "url": "https://www.vogue.co.kr/2026/10/15/%eb%a1%9c%eb%a7%a8%ed%8b%b1%ed%95%9c-%eb%9f%ac%eb%b8%8c-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%b9%85%eb%82%98%ed%8b%b0/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0636be5562-1920x1080.jpg",
-        "category": "셀럽 뉴스",
-        "date": "2026.10.15 by 오기쁨",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067602/devon-korea/2026-10-15/style_6ad0636be5562.jpg"
-      },
-      {
-        "title": "‘X-파일’ 리부트, 라이언 쿠글러 연출로 본다",
-        "url": "https://www.vogue.co.kr/2026/10/15/x-%ed%8c%8c%ec%9d%bc-%eb%a6%ac%eb%b6%80%ed%8a%b8-%eb%9d%bc%ec%9d%b4%ec%96%b8-%ec%bf%a0%ea%b8%80%eb%9f%ac-%ec%97%b0%ec%b6%9c%eb%a1%9c-%eb%b3%b8%eb%8b%a4/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad09328483bb-1920x1080.jpg",
-        "category": "엔터테인먼트",
-        "date": "2026.10.15 by 오기쁨",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067605/devon-korea/2026-10-15/style_6ad09328483bb.jpg"
-      },
-      {
-        "title": "루시 리우가 전하는 변화하는 아름다움",
-        "url": "https://www.vogue.co.kr/2026/10/15/%eb%a3%a8%ec%8b%9c-%eb%a6%ac%ec%9a%b0%ea%b0%80-%ec%a0%84%ed%95%98%eb%8a%94-%eb%b3%80%ed%99%94%ed%95%98%eb%8a%94-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%80/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acdbac7680af-scaled-1920x1080.jpg",
-        "category": "Beauty",
-        "date": "2026.10.15 by VOGUE PROMOTION",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067622/devon-korea/2026-10-15/style_6acdbac7680af.jpg"
-      },
-      {
-        "title": "창립 75주년 맞은 막스마라의 초상",
-        "url": "https://www.vogue.co.kr/2026/10/14/%ec%b0%bd%eb%a6%bd-75%ec%a3%bc%eb%85%84-%eb%a7%9e%ec%9d%80-%eb%a7%89%ec%8a%a4%eb%a7%88%eb%9d%bc%ec%9d%98-%ec%b4%88%ec%83%81/",
-        "image": "https://img.vogue.co.kr/vogue/2026/09/style_6aacd89f77fa0-scaled-1920x1080.jpg",
-        "category": "패션 화보",
-        "date": "2026.10.14 by 신은지",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981240/devon-korea/2026-10-14/style_6aacd89f77fa0.jpg"
-      },
-      {
-        "title": "청춘의 필터로 바라보는 불가리의 반짝임",
-        "url": "https://www.vogue.co.kr/2026/10/14/%ec%b2%ad%ec%b6%98%ec%9d%98-%ed%95%84%ed%84%b0%eb%a1%9c-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%eb%b6%88%ea%b0%80%eb%a6%ac%ec%9d%98-%eb%b0%98%ec%a7%9d%ec%9e%84/",
-        "image": "https://img.vogue.co.kr/vogue/2026/09/style_6ab36eab20d98-scaled-1920x1080.jpg",
-        "category": "워치&주얼리",
-        "date": "2026.10.14 by 신은지",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981238/devon-korea/2026-10-14/style_6ab36eab20d98.jpg"
       }
     ]
   },
   "categories": {
     "fashion": [
+      {
+        "title": "올가을 하루걸러 하루 입게 될 ‘이 바지’!",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%98%ac%ea%b0%80%ec%9d%84-%ed%95%98%eb%a3%a8%ea%b1%b8%eb%9f%ac-%ed%95%98%eb%a3%a8-%ec%9e%85%ea%b2%8c-%eb%90%a0-%ec%9d%b4-%eb%b0%94%ec%a7%80/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad19d40de6e8-1920x1080.jpg",
+        "category": "패션 아이템",
+        "date": "2026.10.16 by 하솔휘",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153522/devon-korea/2026-10-16/style_6ad19d40de6e8.jpg"
+      },
+      {
+        "title": "관능을 넘어 낭만으로, 플로렌스 퓨가 정의한 시스루 드레스 스타일",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ea%b4%80%eb%8a%a5%ec%9d%84-%eb%84%98%ec%96%b4-%eb%82%ad%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ed%94%8c%eb%a1%9c%eb%a0%8c%ec%8a%a4-%ed%93%a8%ea%b0%80-%ec%a0%95%ec%9d%98%ed%95%9c-%ec%8b%9c%ec%8a%a4%eb%a3%a8/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1ef1f2996d-scaled-1920x1080.jpg",
+        "category": "셀러브리티 스타일",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153509/devon-korea/2026-10-16/style_6ad1ef1f2996d.jpg"
+      },
+      {
+        "title": "해리 왕자 부부, 복귀 후 첫 일정에서 선보인 세련된 스타일",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ed%95%b4%eb%a6%ac-%ec%99%95%ec%9e%90-%eb%b6%80%eb%b6%80-%eb%b3%b5%ea%b7%80-%ed%9b%84-%ec%b2%ab-%ec%9d%bc%ec%a0%95%ec%97%90%ec%84%9c-%ec%84%a0%eb%b3%b4%ec%9d%b8-%ec%84%b8%eb%a0%a8%eb%90%9c-%ec%8a%a4/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1e5b911195-scaled-1920x1080.jpg",
+        "category": "셀러브리티 스타일",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153512/devon-korea/2026-10-16/style_6ad1e5b911195.jpg"
+      },
+      {
+        "title": "캘빈클라인 여정 마무리하는 베로니카 레오니",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%ba%98%eb%b9%88%ed%81%b4%eb%9d%bc%ec%9d%b8-%ec%97%ac%ec%a0%95-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%8a%94-%eb%b2%a0%eb%a1%9c%eb%8b%88%ec%b9%b4-%eb%a0%88%ec%98%a4%eb%8b%88/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1acc80f3a3-scaled-1920x1080.jpg",
+        "category": "셀러브리티 스타일",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153517/devon-korea/2026-10-16/style_6ad1acc80f3a3.jpg"
+      },
+      {
+        "title": "션 맥기르, 맥퀸 떠난다",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%85%98-%eb%a7%a5%ea%b8%b0%eb%a5%b4-%eb%a7%a5%ed%80%b8-%eb%96%a0%eb%82%9c%eb%8b%a4/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad19f03b375c-scaled-1920x1080.jpg",
+        "category": "패션 뉴스",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153518/devon-korea/2026-10-16/style_6ad19f03b375c.jpg"
+      },
+      {
+        "title": "청바지, 꼭 캐주얼하게 입을 필요 없어요",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%b2%ad%eb%b0%94%ec%a7%80-%ea%bc%ad-%ec%ba%90%ec%a3%bc%ec%96%bc%ed%95%98%ea%b2%8c-%ec%9e%85%ec%9d%84-%ed%95%84%ec%9a%94-%ec%97%86%ec%96%b4%ec%9a%94/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad190785fd54-scaled-1920x1080.jpg",
+        "category": "패션 트렌드",
+        "date": "2026.10.16 by 소피아",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153523/devon-korea/2026-10-16/style_6ad190785fd54.jpg"
+      },
+      {
+        "title": "호리호리한 바지는 이렇게 입어보세요",
+        "url": "https://www.vogue.co.kr/2026/10/15/%ed%98%b8%eb%a6%ac%ed%98%b8%eb%a6%ac%ed%95%9c-%eb%b0%94%ec%a7%80%eb%8a%94-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ec%9e%85%ec%96%b4%eb%b3%b4%ec%84%b8%ec%9a%94/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad049c56c710-scaled-1920x1080.jpg",
+        "category": "패션 아이템",
+        "date": "2026.10.15 by 하솔휘",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153524/devon-korea/2026-10-16/style_6ad049c56c710.jpg"
+      },
       {
         "title": "가을옷을 입으니 ‘이 부츠’가 간절해졌습니다",
         "url": "https://www.vogue.co.kr/2026/10/15/%ea%b0%80%ec%9d%84%ec%98%b7%ec%9d%84-%ec%9e%85%ec%9c%bc%eb%8b%88-%ec%9d%b4-%eb%b6%80%ec%b8%a0%ea%b0%80-%ea%b0%84%ec%a0%88%ed%95%b4%ec%a1%8c%ec%8a%b5%eb%8b%88%eb%8b%a4/",
@@ -425,72 +488,18 @@
         "date": "2026.10.15 by 김현유, Kerry Pieri, Andrea Zendejas, Kristina Rutkowski",
         "section": null,
         "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067621/devon-korea/2026-10-15/style_6ace5e4747820.jpg"
-      },
-      {
-        "title": "‘인체공학’에 대한 새로운 탐구, 루이 비통 2027 봄/여름 컬렉션",
-        "url": "https://www.vogue.co.kr/2026/10/15/%ec%9d%b8%ec%b2%b4%ea%b3%b5%ed%95%99%ec%97%90-%eb%8c%80%ed%95%9c-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%83%90%ea%b5%ac-%eb%a3%a8%ec%9d%b4-%eb%b9%84%ed%86%b5-2027-%eb%b4%84-%ec%97%ac/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ace54dc3fa47-1920x1080.jpg",
-        "category": "패션 트렌드",
-        "date": "2026.10.15 by 김현유, Alexandre Marain",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067618/devon-korea/2026-10-15/style_6ace54dc3fa47.jpg"
-      },
-      {
-        "title": "제니퍼 로렌스, 가을에 새까만 룩에는 ‘이것’이 중요합니다",
-        "url": "https://www.vogue.co.kr/2026/10/14/%ec%a0%9c%eb%8b%88%ed%8d%bc-%eb%a1%9c%eb%a0%8c%ec%8a%a4-%ea%b0%80%ec%9d%84%ec%97%90-%ec%83%88%ea%b9%8c%eb%a7%8c-%eb%a3%a9%ec%97%90%eb%8a%94-%ec%9d%b4%ea%b2%83%ec%9d%b4-%ec%a4%91%ec%9a%94%ed%95%a9/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acef4a945941-1920x1080.jpg",
-        "category": "셀러브리티 스타일",
-        "date": "2026.10.14 by 하솔휘, Olivia Allen",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981230/devon-korea/2026-10-14/style_6acef4a945941.jpg"
-      },
-      {
-        "title": "서른 번째 생일 맞은 벨라 하디드, 과감한 앞치마 드레스!",
-        "url": "https://www.vogue.co.kr/2026/10/14/%ec%84%9c%eb%a5%b8-%eb%b2%88%ec%a7%b8-%ec%83%9d%ec%9d%bc-%eb%a7%9e%ec%9d%80-%eb%b2%a8%eb%9d%bc-%ed%95%98%eb%94%94%eb%93%9c-%ea%b3%bc%ea%b0%90%ed%95%9c-%ec%95%9e%ec%b9%98%eb%a7%88-%eb%93%9c%eb%a0%88/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acef0dbb26d8-1920x1080.jpg",
-        "category": "셀러브리티 스타일",
-        "date": "2026.10.14 by 하솔휘",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981236/devon-korea/2026-10-14/style_6acef0dbb26d8.jpg"
-      },
-      {
-        "title": "맞춰 입지 않아도 돋보이는, 브래드 피트 커플의 데이트 룩",
-        "url": "https://www.vogue.co.kr/2026/10/14/%eb%a7%9e%ec%b6%b0-%ec%9e%85%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%eb%8f%8b%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%b8%8c%eb%9e%98%eb%93%9c-%ed%94%bc%ed%8a%b8-%ec%bb%a4%ed%94%8c%ec%9d%98-%eb%8d%b0%ec%9d%b4/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acf398283a71-scaled-1920x1080.jpg",
-        "category": "셀러브리티 스타일",
-        "date": "2026.10.14 by 오기쁨",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981225/devon-korea/2026-10-14/style_6acf398283a71.jpg"
-      },
-      {
-        "title": "헤일리 비버, 아다놀라와 발레코어 녹인 캡슐 컬렉션 출시",
-        "url": "https://www.vogue.co.kr/2026/10/14/%ed%97%a4%ec%9d%bc%eb%a6%ac-%eb%b9%84%eb%b2%84-%ec%95%84%eb%8b%a4%eb%86%80%eb%9d%bc%ec%99%80-%eb%b0%9c%eb%a0%88%ec%bd%94%ec%96%b4-%eb%85%b9%ec%9d%b8-%ec%ba%a1%ec%8a%90-%ec%bb%ac%eb%a0%89%ec%85%98/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acf013858e65-1920x1080.jpg",
-        "category": "패션 뉴스",
-        "date": "2026.10.14 by 오기쁨",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981231/devon-korea/2026-10-14/style_6acf013858e65.jpg"
-      },
-      {
-        "title": "청춘의 필터로 바라보는 불가리의 반짝임",
-        "url": "https://www.vogue.co.kr/2026/10/14/%ec%b2%ad%ec%b6%98%ec%9d%98-%ed%95%84%ed%84%b0%eb%a1%9c-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%eb%b6%88%ea%b0%80%eb%a6%ac%ec%9d%98-%eb%b0%98%ec%a7%9d%ec%9e%84/",
-        "image": "https://img.vogue.co.kr/vogue/2026/09/style_6ab36eab20d98-scaled-1920x1080.jpg",
-        "category": "워치&주얼리",
-        "date": "2026.10.14 by 신은지",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981238/devon-korea/2026-10-14/style_6ab36eab20d98.jpg"
-      },
-      {
-        "title": "창립 75주년 맞은 막스마라의 초상",
-        "url": "https://www.vogue.co.kr/2026/10/14/%ec%b0%bd%eb%a6%bd-75%ec%a3%bc%eb%85%84-%eb%a7%9e%ec%9d%80-%eb%a7%89%ec%8a%a4%eb%a7%88%eb%9d%bc%ec%9d%98-%ec%b4%88%ec%83%81/",
-        "image": "https://img.vogue.co.kr/vogue/2026/09/style_6aacd89f77fa0-scaled-1920x1080.jpg",
-        "category": "패션 화보",
-        "date": "2026.10.14 by 신은지",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981240/devon-korea/2026-10-14/style_6aacd89f77fa0.jpg"
       }
     ],
     "beauty": [
+      {
+        "title": "손가락 길어 보이는 네일? 해외에서 주목받는 ‘리프트 매니큐어’",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%86%90%ea%b0%80%eb%9d%bd-%ea%b8%b8%ec%96%b4-%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%84%a4%ec%9d%bc-%ed%95%b4%ec%99%b8%ec%97%90%ec%84%9c-%ec%a3%bc%eb%aa%a9%eb%b0%9b%eb%8a%94-%eb%a6%ac%ed%94%84/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad093f4418cf-scaled-1920x1080.jpg",
+        "category": "뷰티 트렌드",
+        "date": "2026.10.16 by 송가혜, Audrey Noble",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153515/devon-korea/2026-10-16/style_6ad093f4418cf.jpg"
+      },
       {
         "title": "일본 최고령 트레이너가 노화를 막기 위해 고안한 ‘까치발 운동’",
         "url": "https://www.vogue.co.kr/2026/10/15/%ec%9d%bc%eb%b3%b8-%ec%b5%9c%ea%b3%a0%eb%a0%b9-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%84%88%ea%b0%80-%eb%85%b8%ed%99%94%eb%a5%bc-%eb%a7%89%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b3%a0%ec%95%88%ed%95%9c-%ea%b9%8c/",
@@ -589,15 +598,6 @@
         "date": "2026.10.09 by 송가혜, Ana Morales",
         "section": null,
         "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791549602/devon-korea/2026-10-09/style_6ac71e00d8873.jpg"
-      },
-      {
-        "title": "달걀에 이것 더하기? 10분 만에 완성하는 고단백 저녁",
-        "url": "https://www.vogue.co.kr/2026/10/01/%eb%8b%ac%ea%b1%80%ec%97%90-%ec%9d%b4%ea%b2%83-%eb%8d%94%ed%95%98%ea%b8%b0-10%eb%b6%84-%eb%a7%8c%ec%97%90-%ec%99%84%ec%84%b1%ed%95%98%eb%8a%94-%ea%b3%a0%eb%8b%a8%eb%b0%b1-%ec%a0%80%eb%85%81/",
-        "image": "https://img.vogue.co.kr/vogue/2026/09/style_6abcd4f8825e2-759x500.jpg?x=1168&y=1185",
-        "category": "웰니스",
-        "date": "2026.10.01 by 송가혜, Ana Morales",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-10-01/style_6abcd4f8825e2.jpg"
       }
     ],
     "living": [
@@ -712,6 +712,24 @@
     ],
     "culture": [
       {
+        "title": "“사람을 슬프게 하는 것은 하나도 없다”, 이대원 회고전",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%82%ac%eb%9e%8c%ec%9d%84-%ec%8a%ac%ed%94%84%ea%b2%8c-%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%80-%ed%95%98%eb%82%98%eb%8f%84-%ec%97%86%eb%8b%a4-%ec%9d%b4%eb%8c%80%ec%9b%90-%ed%9a%8c%ea%b3%a0/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1eda83a885-scaled-1920x1080.jpg",
+        "category": "아트",
+        "date": "2026.10.16 by 하솔휘",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153509/devon-korea/2026-10-16/style_6ad1eda83a885.jpg"
+      },
+      {
+        "title": "제니, 넷플릭스 ‘스텝스’ OST 참여",
+        "url": "https://www.vogue.co.kr/2026/10/16/%ec%a0%9c%eb%8b%88-%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4-%ec%8a%a4%ed%85%9d%ec%8a%a4-ost-%ec%b0%b8%ec%97%ac/",
+        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1def9809b2-1920x1080.jpg",
+        "category": "셀럽 뉴스",
+        "date": "2026.10.16 by 오기쁨",
+        "section": null,
+        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153510/devon-korea/2026-10-16/style_6ad1def9809b2.jpg"
+      },
+      {
         "title": "로맨틱한 러브 스토리의 주인공, 빅나티",
         "url": "https://www.vogue.co.kr/2026/10/15/%eb%a1%9c%eb%a7%a8%ed%8b%b1%ed%95%9c-%eb%9f%ac%eb%b8%8c-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%b9%85%eb%82%98%ed%8b%b0/",
         "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0636be5562-1920x1080.jpg",
@@ -800,24 +818,6 @@
         "date": "2026.10.12 by 오기쁨",
         "section": null,
         "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791808649/devon-korea/2026-10-12/style_6ac758bbb839d.jpg"
-      },
-      {
-        "title": "에이셉 라키, 교육 지원 나선다",
-        "url": "https://www.vogue.co.kr/2026/10/07/%ec%97%90%ec%9d%b4%ec%85%89-%eb%9d%bc%ed%82%a4-%ea%b5%90%ec%9c%a1-%ec%a7%80%ec%9b%90-%eb%82%98%ec%84%a0%eb%8b%a4/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ac611489c8b1-scaled-759x500.jpg?x=1707&y=1837",
-        "category": "셀럽 뉴스",
-        "date": "2026.10.07 by 오기쁨",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-10-07/style_6ac611489c8b1.jpg"
-      },
-      {
-        "title": "란제리 캠페인 모델로 호흡 맞춘 하이디 클룸과 딸 레니",
-        "url": "https://www.vogue.co.kr/2026/10/07/%eb%9e%80%ec%a0%9c%eb%a6%ac-%ec%ba%a0%ed%8e%98%ec%9d%b8-%eb%aa%a8%eb%8d%b8%eb%a1%9c-%ed%98%b8%ed%9d%a1-%eb%a7%9e%ec%b6%98-%ed%95%98%ec%9d%b4%eb%94%94-%ed%81%b4%eb%a3%b8%ea%b3%bc-%eb%94%b8-%eb%a0%88/",
-        "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ac603fab62f4-scaled-759x500.jpg?x=1708&y=1857",
-        "category": "셀럽 뉴스",
-        "date": "2026.10.07 by 오기쁨",
-        "section": null,
-        "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-10-07/style_6ac603fab62f4.jpg"
       }
     ]
   },
@@ -832,40 +832,40 @@
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791808631/devon-korea/2026-10-12/style_6acc410ee13e8.jpg"
     },
     {
-      "title": "일본 최고령 트레이너가 노화를 막기 위해 고안한 ‘까치발 운동’",
-      "url": "https://www.vogue.co.kr/2026/10/15/%ec%9d%bc%eb%b3%b8-%ec%b5%9c%ea%b3%a0%eb%a0%b9-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%84%88%ea%b0%80-%eb%85%b8%ed%99%94%eb%a5%bc-%eb%a7%89%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b3%a0%ec%95%88%ed%95%9c-%ea%b9%8c/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad08fc4a89ca-scaled-1920x1080.jpg",
-      "category": "웰니스",
-      "date": "2026.10.15 by 송가혜, Ana Morales",
+      "title": "“사람을 슬프게 하는 것은 하나도 없다”, 이대원 회고전",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ec%82%ac%eb%9e%8c%ec%9d%84-%ec%8a%ac%ed%94%84%ea%b2%8c-%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%80-%ed%95%98%eb%82%98%eb%8f%84-%ec%97%86%eb%8b%a4-%ec%9d%b4%eb%8c%80%ec%9b%90-%ed%9a%8c%ea%b3%a0/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1eda83a885-scaled-1920x1080.jpg",
+      "category": "아트",
+      "date": "2026.10.16 by 하솔휘",
       "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067598/devon-korea/2026-10-15/style_6ad08fc4a89ca.jpg"
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153509/devon-korea/2026-10-16/style_6ad1eda83a885.jpg"
     },
     {
-      "title": "1997 오스카 시상식 샤넬 룩을 새롭게 재해석한 셀린 디온",
-      "url": "https://www.vogue.co.kr/2026/10/15/1997-%ec%98%a4%ec%8a%a4%ec%b9%b4-%ec%8b%9c%ec%83%81%ec%8b%9d-%ec%83%a4%eb%84%ac-%eb%a3%a9%ec%9d%84-%ec%83%88%eb%a1%ad%ea%b2%8c-%ec%9e%ac%ed%95%b4%ec%84%9d%ed%95%9c-%ec%85%80%eb%a6%b0-%eb%94%94/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0698c51509-scaled-1920x1080.jpg",
+      "title": "관능을 넘어 낭만으로, 플로렌스 퓨가 정의한 시스루 드레스 스타일",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ea%b4%80%eb%8a%a5%ec%9d%84-%eb%84%98%ec%96%b4-%eb%82%ad%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ed%94%8c%eb%a1%9c%eb%a0%8c%ec%8a%a4-%ed%93%a8%ea%b0%80-%ec%a0%95%ec%9d%98%ed%95%9c-%ec%8b%9c%ec%8a%a4%eb%a3%a8/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1ef1f2996d-scaled-1920x1080.jpg",
       "category": "셀러브리티 스타일",
-      "date": "2026.10.15 by 오기쁨",
+      "date": "2026.10.16 by 오기쁨",
       "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067600/devon-korea/2026-10-15/style_6ad0698c51509.jpg"
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153509/devon-korea/2026-10-16/style_6ad1ef1f2996d.jpg"
     },
     {
-      "title": "엄마 된 레이디 가가, 부드럽고 우아해진 패션",
-      "url": "https://www.vogue.co.kr/2026/10/15/%ec%97%84%eb%a7%88-%eb%90%9c-%eb%a0%88%ec%9d%b4%eb%94%94-%ea%b0%80%ea%b0%80-%eb%b6%80%eb%93%9c%eb%9f%bd%ea%b3%a0-%ec%9a%b0%ec%95%84%ed%95%b4%ec%a7%84-%ed%8c%a8%ec%85%98/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0991b1e073-scaled-1920x1080.jpg",
+      "title": "해리 왕자 부부, 복귀 후 첫 일정에서 선보인 세련된 스타일",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ed%95%b4%eb%a6%ac-%ec%99%95%ec%9e%90-%eb%b6%80%eb%b6%80-%eb%b3%b5%ea%b7%80-%ed%9b%84-%ec%b2%ab-%ec%9d%bc%ec%a0%95%ec%97%90%ec%84%9c-%ec%84%a0%eb%b3%b4%ec%9d%b8-%ec%84%b8%eb%a0%a8%eb%90%9c-%ec%8a%a4/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1e5b911195-scaled-1920x1080.jpg",
       "category": "셀러브리티 스타일",
-      "date": "2026.10.15 by 오기쁨",
+      "date": "2026.10.16 by 오기쁨",
       "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067605/devon-korea/2026-10-15/style_6ad0991b1e073.jpg"
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153512/devon-korea/2026-10-16/style_6ad1e5b911195.jpg"
     },
     {
-      "title": "2027년, 우리의 여행은 어떤 모습일까요?",
-      "url": "https://www.vogue.co.kr/2026/10/15/2027%eb%85%84-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%97%ac%ed%96%89%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%aa%a8%ec%8a%b5%ec%9d%bc%ea%b9%8c%ec%9a%94/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad08e941bd88-scaled-1920x1080.jpg",
-      "category": "여행",
-      "date": "2026.10.15 by 오기쁨",
+      "title": "손가락 길어 보이는 네일? 해외에서 주목받는 ‘리프트 매니큐어’",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ec%86%90%ea%b0%80%eb%9d%bd-%ea%b8%b8%ec%96%b4-%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%84%a4%ec%9d%bc-%ed%95%b4%ec%99%b8%ec%97%90%ec%84%9c-%ec%a3%bc%eb%aa%a9%eb%b0%9b%eb%8a%94-%eb%a6%ac%ed%94%84/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad093f4418cf-scaled-1920x1080.jpg",
+      "category": "뷰티 트렌드",
+      "date": "2026.10.16 by 송가혜, Audrey Noble",
       "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067608/devon-korea/2026-10-15/style_6ad08e941bd88.jpg"
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153515/devon-korea/2026-10-16/style_6ad093f4418cf.jpg"
     },
     {
       "title": "155cm 레이디 가가, 청바지에 부츠는 이렇게!",
@@ -1012,6 +1012,15 @@
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791549596/devon-korea/2026-10-09/style_6ac7242e19112.jpg"
     },
     {
+      "title": "2027년, 우리의 여행은 어떤 모습일까요?",
+      "url": "https://www.vogue.co.kr/2026/10/15/2027%eb%85%84-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%97%ac%ed%96%89%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%aa%a8%ec%8a%b5%ec%9d%bc%ea%b9%8c%ec%9a%94/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad08e941bd88-scaled-1920x1080.jpg",
+      "category": "여행",
+      "date": "2026.10.15 by 오기쁨",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067608/devon-korea/2026-10-15/style_6ad08e941bd88.jpg"
+    },
+    {
       "title": "빅토리아 베컴의 미적 감각이 담긴 홈웨어는 어떤 모습일까?",
       "url": "https://www.vogue.co.kr/2026/10/13/%eb%b9%85%ed%86%a0%eb%a6%ac%ec%95%84-%eb%b2%a0%ec%bb%b4%ec%9d%98-%eb%af%b8%ec%a0%81-%ea%b0%90%ea%b0%81%ec%9d%b4-%eb%8b%b4%ea%b8%b4-%ed%99%88%ec%9b%a8%ec%96%b4%eb%8a%94-%ec%96%b4%eb%96%a4-%eb%aa%a8/",
       "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acdeb0bec232-759x500.jpg?x=1542&y=2061",
@@ -1039,15 +1048,6 @@
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791635106/devon-korea/2026-10-10/style_6abcbe032d5e0.jpg"
     },
     {
-      "title": "시에나와 사바나 밀러 자매의 엄마 되기",
-      "url": "https://www.vogue.co.kr/2026/10/10/%ec%8b%9c%ec%97%90%eb%82%98%ec%99%80-%ec%82%ac%eb%b0%94%eb%82%98-%eb%b0%80%eb%9f%ac-%ec%9e%90%eb%a7%a4%ec%9d%98-%ec%97%84%eb%a7%88-%eb%90%98%ea%b8%b0/",
-      "image": "https://img.vogue.co.kr/vogue/2026/09/style_6abcc02439bad-500x500.jpg?x=923&y=923",
-      "category": "라이프",
-      "date": "2026.10.10 by 전수연",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791635107/devon-korea/2026-10-10/style_6abcc02439bad.jpg"
-    },
-    {
       "title": "가을 분위기 가득한 1990·2000년대 영화 15편",
       "url": "https://www.vogue.co.kr/2026/10/10/%ea%b0%80%ec%9d%84-%eb%b6%84%ec%9c%84%ea%b8%b0-%ea%b0%80%eb%93%9d%ed%95%9c-1990%c2%b72000%eb%85%84%eb%8c%80-%ec%98%81%ed%99%94-15%ed%8e%b8/",
       "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ac8a7ec717cb-scaled-500x500.jpg?x=2565&y=2134",
@@ -1073,6 +1073,60 @@
       "date": "2026.10.09 by 하솔휘",
       "section": null,
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791549605/devon-korea/2026-10-09/style_6ac72ebf918f3.jpg"
+    },
+    {
+      "title": "캘빈클라인 여정 마무리하는 베로니카 레오니",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ec%ba%98%eb%b9%88%ed%81%b4%eb%9d%bc%ec%9d%b8-%ec%97%ac%ec%a0%95-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%8a%94-%eb%b2%a0%eb%a1%9c%eb%8b%88%ec%b9%b4-%eb%a0%88%ec%98%a4%eb%8b%88/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1acc80f3a3-scaled-1920x1080.jpg",
+      "category": "셀러브리티 스타일",
+      "date": "2026.10.16 by 오기쁨",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153517/devon-korea/2026-10-16/style_6ad1acc80f3a3.jpg"
+    },
+    {
+      "title": "션 맥기르, 맥퀸 떠난다",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ec%85%98-%eb%a7%a5%ea%b8%b0%eb%a5%b4-%eb%a7%a5%ed%80%b8-%eb%96%a0%eb%82%9c%eb%8b%a4/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad19f03b375c-scaled-1920x1080.jpg",
+      "category": "패션 뉴스",
+      "date": "2026.10.16 by 오기쁨",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153518/devon-korea/2026-10-16/style_6ad19f03b375c.jpg"
+    },
+    {
+      "title": "올가을 하루걸러 하루 입게 될 ‘이 바지’!",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ec%98%ac%ea%b0%80%ec%9d%84-%ed%95%98%eb%a3%a8%ea%b1%b8%eb%9f%ac-%ed%95%98%eb%a3%a8-%ec%9e%85%ea%b2%8c-%eb%90%a0-%ec%9d%b4-%eb%b0%94%ec%a7%80/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad19d40de6e8-1920x1080.jpg",
+      "category": "패션 아이템",
+      "date": "2026.10.16 by 하솔휘",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153522/devon-korea/2026-10-16/style_6ad19d40de6e8.jpg"
+    },
+    {
+      "title": "청바지, 꼭 캐주얼하게 입을 필요 없어요",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ec%b2%ad%eb%b0%94%ec%a7%80-%ea%bc%ad-%ec%ba%90%ec%a3%bc%ec%96%bc%ed%95%98%ea%b2%8c-%ec%9e%85%ec%9d%84-%ed%95%84%ec%9a%94-%ec%97%86%ec%96%b4%ec%9a%94/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad190785fd54-scaled-1920x1080.jpg",
+      "category": "패션 트렌드",
+      "date": "2026.10.16 by 소피아",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153523/devon-korea/2026-10-16/style_6ad190785fd54.jpg"
+    },
+    {
+      "title": "제니, 넷플릭스 ‘스텝스’ OST 참여",
+      "url": "https://www.vogue.co.kr/2026/10/16/%ec%a0%9c%eb%8b%88-%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4-%ec%8a%a4%ed%85%9d%ec%8a%a4-ost-%ec%b0%b8%ec%97%ac/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad1def9809b2-1920x1080.jpg",
+      "category": "셀럽 뉴스",
+      "date": "2026.10.16 by 오기쁨",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153510/devon-korea/2026-10-16/style_6ad1def9809b2.jpg"
+    },
+    {
+      "title": "호리호리한 바지는 이렇게 입어보세요",
+      "url": "https://www.vogue.co.kr/2026/10/15/%ed%98%b8%eb%a6%ac%ed%98%b8%eb%a6%ac%ed%95%9c-%eb%b0%94%ec%a7%80%eb%8a%94-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ec%9e%85%ec%96%b4%eb%b3%b4%ec%84%b8%ec%9a%94/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad049c56c710-scaled-1920x1080.jpg",
+      "category": "패션 아이템",
+      "date": "2026.10.15 by 하솔휘",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792153524/devon-korea/2026-10-16/style_6ad049c56c710.jpg"
     },
     {
       "title": "‘인체공학’에 대한 새로운 탐구, 루이 비통 2027 봄/여름 컬렉션",
@@ -1111,22 +1165,31 @@
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067625/devon-korea/2026-10-15/style_6ad0311407c22.jpg"
     },
     {
-      "title": "로맨틱한 러브 스토리의 주인공, 빅나티",
-      "url": "https://www.vogue.co.kr/2026/10/15/%eb%a1%9c%eb%a7%a8%ed%8b%b1%ed%95%9c-%eb%9f%ac%eb%b8%8c-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%b9%85%eb%82%98%ed%8b%b0/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0636be5562-1920x1080.jpg",
-      "category": "셀럽 뉴스",
+      "title": "1997 오스카 시상식 샤넬 룩을 새롭게 재해석한 셀린 디온",
+      "url": "https://www.vogue.co.kr/2026/10/15/1997-%ec%98%a4%ec%8a%a4%ec%b9%b4-%ec%8b%9c%ec%83%81%ec%8b%9d-%ec%83%a4%eb%84%ac-%eb%a3%a9%ec%9d%84-%ec%83%88%eb%a1%ad%ea%b2%8c-%ec%9e%ac%ed%95%b4%ec%84%9d%ed%95%9c-%ec%85%80%eb%a6%b0-%eb%94%94/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0698c51509-scaled-1920x1080.jpg",
+      "category": "셀러브리티 스타일",
       "date": "2026.10.15 by 오기쁨",
       "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067602/devon-korea/2026-10-15/style_6ad0636be5562.jpg"
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067600/devon-korea/2026-10-15/style_6ad0698c51509.jpg"
     },
     {
-      "title": "‘X-파일’ 리부트, 라이언 쿠글러 연출로 본다",
-      "url": "https://www.vogue.co.kr/2026/10/15/x-%ed%8c%8c%ec%9d%bc-%eb%a6%ac%eb%b6%80%ed%8a%b8-%eb%9d%bc%ec%9d%b4%ec%96%b8-%ec%bf%a0%ea%b8%80%eb%9f%ac-%ec%97%b0%ec%b6%9c%eb%a1%9c-%eb%b3%b8%eb%8b%a4/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad09328483bb-1920x1080.jpg",
-      "category": "엔터테인먼트",
+      "title": "엄마 된 레이디 가가, 부드럽고 우아해진 패션",
+      "url": "https://www.vogue.co.kr/2026/10/15/%ec%97%84%eb%a7%88-%eb%90%9c-%eb%a0%88%ec%9d%b4%eb%94%94-%ea%b0%80%ea%b0%80-%eb%b6%80%eb%93%9c%eb%9f%bd%ea%b3%a0-%ec%9a%b0%ec%95%84%ed%95%b4%ec%a7%84-%ed%8c%a8%ec%85%98/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0991b1e073-scaled-1920x1080.jpg",
+      "category": "셀러브리티 스타일",
       "date": "2026.10.15 by 오기쁨",
       "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067605/devon-korea/2026-10-15/style_6ad09328483bb.jpg"
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067605/devon-korea/2026-10-15/style_6ad0991b1e073.jpg"
+    },
+    {
+      "title": "일본 최고령 트레이너가 노화를 막기 위해 고안한 ‘까치발 운동’",
+      "url": "https://www.vogue.co.kr/2026/10/15/%ec%9d%bc%eb%b3%b8-%ec%b5%9c%ea%b3%a0%eb%a0%b9-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%84%88%ea%b0%80-%eb%85%b8%ed%99%94%eb%a5%bc-%eb%a7%89%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b3%a0%ec%95%88%ed%95%9c-%ea%b9%8c/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad08fc4a89ca-scaled-1920x1080.jpg",
+      "category": "웰니스",
+      "date": "2026.10.15 by 송가혜, Ana Morales",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067598/devon-korea/2026-10-15/style_6ad08fc4a89ca.jpg"
     },
     {
       "title": "루시 리우가 전하는 변화하는 아름다움",
@@ -1136,60 +1199,6 @@
       "date": "2026.10.15 by VOGUE PROMOTION",
       "section": null,
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067622/devon-korea/2026-10-15/style_6acdbac7680af.jpg"
-    },
-    {
-      "title": "창립 75주년 맞은 막스마라의 초상",
-      "url": "https://www.vogue.co.kr/2026/10/14/%ec%b0%bd%eb%a6%bd-75%ec%a3%bc%eb%85%84-%eb%a7%9e%ec%9d%80-%eb%a7%89%ec%8a%a4%eb%a7%88%eb%9d%bc%ec%9d%98-%ec%b4%88%ec%83%81/",
-      "image": "https://img.vogue.co.kr/vogue/2026/09/style_6aacd89f77fa0-scaled-1920x1080.jpg",
-      "category": "패션 화보",
-      "date": "2026.10.14 by 신은지",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981240/devon-korea/2026-10-14/style_6aacd89f77fa0.jpg"
-    },
-    {
-      "title": "청춘의 필터로 바라보는 불가리의 반짝임",
-      "url": "https://www.vogue.co.kr/2026/10/14/%ec%b2%ad%ec%b6%98%ec%9d%98-%ed%95%84%ed%84%b0%eb%a1%9c-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%eb%b6%88%ea%b0%80%eb%a6%ac%ec%9d%98-%eb%b0%98%ec%a7%9d%ec%9e%84/",
-      "image": "https://img.vogue.co.kr/vogue/2026/09/style_6ab36eab20d98-scaled-1920x1080.jpg",
-      "category": "워치&주얼리",
-      "date": "2026.10.14 by 신은지",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981238/devon-korea/2026-10-14/style_6ab36eab20d98.jpg"
-    },
-    {
-      "title": "제니퍼 로렌스, 가을에 새까만 룩에는 ‘이것’이 중요합니다",
-      "url": "https://www.vogue.co.kr/2026/10/14/%ec%a0%9c%eb%8b%88%ed%8d%bc-%eb%a1%9c%eb%a0%8c%ec%8a%a4-%ea%b0%80%ec%9d%84%ec%97%90-%ec%83%88%ea%b9%8c%eb%a7%8c-%eb%a3%a9%ec%97%90%eb%8a%94-%ec%9d%b4%ea%b2%83%ec%9d%b4-%ec%a4%91%ec%9a%94%ed%95%a9/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acef4a945941-1920x1080.jpg",
-      "category": "셀러브리티 스타일",
-      "date": "2026.10.14 by 하솔휘, Olivia Allen",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981230/devon-korea/2026-10-14/style_6acef4a945941.jpg"
-    },
-    {
-      "title": "서른 번째 생일 맞은 벨라 하디드, 과감한 앞치마 드레스!",
-      "url": "https://www.vogue.co.kr/2026/10/14/%ec%84%9c%eb%a5%b8-%eb%b2%88%ec%a7%b8-%ec%83%9d%ec%9d%bc-%eb%a7%9e%ec%9d%80-%eb%b2%a8%eb%9d%bc-%ed%95%98%eb%94%94%eb%93%9c-%ea%b3%bc%ea%b0%90%ed%95%9c-%ec%95%9e%ec%b9%98%eb%a7%88-%eb%93%9c%eb%a0%88/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acef0dbb26d8-1920x1080.jpg",
-      "category": "셀러브리티 스타일",
-      "date": "2026.10.14 by 하솔휘",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981236/devon-korea/2026-10-14/style_6acef0dbb26d8.jpg"
-    },
-    {
-      "title": "맞춰 입지 않아도 돋보이는, 브래드 피트 커플의 데이트 룩",
-      "url": "https://www.vogue.co.kr/2026/10/14/%eb%a7%9e%ec%b6%b0-%ec%9e%85%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%eb%8f%8b%eb%b3%b4%ec%9d%b4%eb%8a%94-%eb%b8%8c%eb%9e%98%eb%93%9c-%ed%94%bc%ed%8a%b8-%ec%bb%a4%ed%94%8c%ec%9d%98-%eb%8d%b0%ec%9d%b4/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acf398283a71-scaled-1920x1080.jpg",
-      "category": "셀러브리티 스타일",
-      "date": "2026.10.14 by 오기쁨",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981225/devon-korea/2026-10-14/style_6acf398283a71.jpg"
-    },
-    {
-      "title": "헤일리 비버, 아다놀라와 발레코어 녹인 캡슐 컬렉션 출시",
-      "url": "https://www.vogue.co.kr/2026/10/14/%ed%97%a4%ec%9d%bc%eb%a6%ac-%eb%b9%84%eb%b2%84-%ec%95%84%eb%8b%a4%eb%86%80%eb%9d%bc%ec%99%80-%eb%b0%9c%eb%a0%88%ec%bd%94%ec%96%b4-%eb%85%b9%ec%9d%b8-%ec%ba%a1%ec%8a%90-%ec%bb%ac%eb%a0%89%ec%85%98/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acf013858e65-1920x1080.jpg",
-      "category": "패션 뉴스",
-      "date": "2026.10.14 by 오기쁨",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791981231/devon-korea/2026-10-14/style_6acf013858e65.jpg"
     },
     {
       "title": "지수와 현진이 보여준 디올 뷰티의 다른 두 얼굴",
@@ -1226,15 +1235,6 @@
       "date": "2026.10.09 by 송가혜, Ana Morales",
       "section": null,
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791549602/devon-korea/2026-10-09/style_6ac71e00d8873.jpg"
-    },
-    {
-      "title": "달걀에 이것 더하기? 10분 만에 완성하는 고단백 저녁",
-      "url": "https://www.vogue.co.kr/2026/10/01/%eb%8b%ac%ea%b1%80%ec%97%90-%ec%9d%b4%ea%b2%83-%eb%8d%94%ed%95%98%ea%b8%b0-10%eb%b6%84-%eb%a7%8c%ec%97%90-%ec%99%84%ec%84%b1%ed%95%98%eb%8a%94-%ea%b3%a0%eb%8b%a8%eb%b0%b1-%ec%a0%80%eb%85%81/",
-      "image": "https://img.vogue.co.kr/vogue/2026/09/style_6abcd4f8825e2-759x500.jpg?x=1168&y=1185",
-      "category": "웰니스",
-      "date": "2026.10.01 by 송가혜, Ana Morales",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-10-01/style_6abcd4f8825e2.jpg"
     },
     {
       "title": "한없이 투명에 가까운 몰디브",
@@ -1309,6 +1309,24 @@
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-09-30/style_6ab1ed167e6d4.jpg"
     },
     {
+      "title": "로맨틱한 러브 스토리의 주인공, 빅나티",
+      "url": "https://www.vogue.co.kr/2026/10/15/%eb%a1%9c%eb%a7%a8%ed%8b%b1%ed%95%9c-%eb%9f%ac%eb%b8%8c-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%9d%98-%ec%a3%bc%ec%9d%b8%ea%b3%b5-%eb%b9%85%eb%82%98%ed%8b%b0/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad0636be5562-1920x1080.jpg",
+      "category": "셀럽 뉴스",
+      "date": "2026.10.15 by 오기쁨",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067602/devon-korea/2026-10-15/style_6ad0636be5562.jpg"
+    },
+    {
+      "title": "‘X-파일’ 리부트, 라이언 쿠글러 연출로 본다",
+      "url": "https://www.vogue.co.kr/2026/10/15/x-%ed%8c%8c%ec%9d%bc-%eb%a6%ac%eb%b6%80%ed%8a%b8-%eb%9d%bc%ec%9d%b4%ec%96%b8-%ec%bf%a0%ea%b8%80%eb%9f%ac-%ec%97%b0%ec%b6%9c%eb%a1%9c-%eb%b3%b8%eb%8b%a4/",
+      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ad09328483bb-1920x1080.jpg",
+      "category": "엔터테인먼트",
+      "date": "2026.10.15 by 오기쁨",
+      "section": null,
+      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1792067605/devon-korea/2026-10-15/style_6ad09328483bb.jpg"
+    },
+    {
       "title": "그레타 거윅의 ‘나니아 연대기: 마법사의 조카’ 베일 벗었다",
       "url": "https://www.vogue.co.kr/2026/10/14/%ea%b7%b8%eb%a0%88%ed%83%80-%ea%b1%b0%ec%9c%85%ec%9d%98-%eb%82%98%eb%8b%88%ec%95%84-%ec%97%b0%eb%8c%80%ea%b8%b0-%eb%a7%88%eb%b2%95%ec%82%ac%ec%9d%98-%ec%a1%b0%ec%b9%b4-%eb%b2%a0%ec%9d%bc/",
       "image": "https://img.vogue.co.kr/vogue/2026/10/style_6acf2b94166c6-scaled-1920x1080.jpg",
@@ -1379,24 +1397,6 @@
       "date": "2026.10.12 by 오기쁨",
       "section": null,
       "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/v1791808649/devon-korea/2026-10-12/style_6ac758bbb839d.jpg"
-    },
-    {
-      "title": "에이셉 라키, 교육 지원 나선다",
-      "url": "https://www.vogue.co.kr/2026/10/07/%ec%97%90%ec%9d%b4%ec%85%89-%eb%9d%bc%ed%82%a4-%ea%b5%90%ec%9c%a1-%ec%a7%80%ec%9b%90-%eb%82%98%ec%84%a0%eb%8b%a4/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ac611489c8b1-scaled-759x500.jpg?x=1707&y=1837",
-      "category": "셀럽 뉴스",
-      "date": "2026.10.07 by 오기쁨",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-10-07/style_6ac611489c8b1.jpg"
-    },
-    {
-      "title": "란제리 캠페인 모델로 호흡 맞춘 하이디 클룸과 딸 레니",
-      "url": "https://www.vogue.co.kr/2026/10/07/%eb%9e%80%ec%a0%9c%eb%a6%ac-%ec%ba%a0%ed%8e%98%ec%9d%b8-%eb%aa%a8%eb%8d%b8%eb%a1%9c-%ed%98%b8%ed%9d%a1-%eb%a7%9e%ec%b6%98-%ed%95%98%ec%9d%b4%eb%94%94-%ed%81%b4%eb%a3%b8%ea%b3%bc-%eb%94%b8-%eb%a0%88/",
-      "image": "https://img.vogue.co.kr/vogue/2026/10/style_6ac603fab62f4-scaled-759x500.jpg?x=1708&y=1857",
-      "category": "셀럽 뉴스",
-      "date": "2026.10.07 by 오기쁨",
-      "section": null,
-      "cloudinary": "https://res.cloudinary.com/dhx58lnzb/image/upload/devon-korea/2026-10-07/style_6ac603fab62f4.jpg"
     },
     {
       "title": "아일릿 이로하의 Kendrick Lamar ‘squabble up’ Dance Performance | 8PM CONCERT",
@@ -1546,18 +1546,17 @@
     }
   ],
   "images_to_upload": [
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ad08fc4a89ca-scaled-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ad0698c51509-scaled-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ad0636be5562-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ad0991b1e073-scaled-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ad09328483bb-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ad08e941bd88-scaled-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ace54dc3fa47-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ace4d788b223-scaled-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ace5e4747820-933x1400.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6acdbac7680af-scaled-1920x1080.jpg",
-    "https://img.vogue.co.kr/vogue/2026/10/style_6ad0311407c22-1920x1080.jpg"
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad1eda83a885-scaled-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad1ef1f2996d-scaled-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad1def9809b2-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad1e5b911195-scaled-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad093f4418cf-scaled-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad1acc80f3a3-scaled-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad19f03b375c-scaled-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad19d40de6e8-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad190785fd54-scaled-1920x1080.jpg",
+    "https://img.vogue.co.kr/vogue/2026/10/style_6ad049c56c710-scaled-1920x1080.jpg"
   ],
-  "cloudinary_folder": "devon-korea/2026-10-15",
-  "images_uploaded": 11
+  "cloudinary_folder": "devon-korea/2026-10-16",
+  "images_uploaded": 10
 }
